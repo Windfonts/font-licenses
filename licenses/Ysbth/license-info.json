@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Ysbth",
+  "type": "付费授权",
+  "spdx": null,
+  "licenseUrl": null,
+  "licenseFile": "licenses/Ysbth/LICENSE",
+  "commercial": true,
+  "modification": false,
+  "distribution": false,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "需购买商业授权后方可使用",
+  "verified": false,
+  "verifiedAt": null,
+  "verifiedBy": null,
+  "source": "font-mapping.json (AI 分析)"
+}
