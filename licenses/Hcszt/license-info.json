@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Hcszt",
+  "type": "免费商用",
+  "spdx": null,
+  "licenseUrl": null,
+  "licenseFile": "licenses/Hcszt/LICENSE",
+  "commercial": true,
+  "modification": false,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "可免费商用，不可修改字体文件后再分发，不可单独售卖字体文件",
+  "verified": false,
+  "verifiedAt": null,
+  "verifiedBy": null,
+  "source": "font-mapping.json (AI 分析)"
+}
