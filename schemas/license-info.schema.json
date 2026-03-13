@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://feicode.com/Windfonts/font-licenses/raw/branch/main/schemas/license-info.schema.json",
+  "title": "WindFonts Font License Info",
+  "description": "文风字体授权信息标准格式 v1.0",
+  "type": "object",
+  "required": ["normalizedName", "type", "commercial", "verified"],
+  "properties": {
+    "normalizedName": {
+      "type": "string",
+      "description": "字体唯一标识，与 font-metadata 仓库一致（如 Almmsht）"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["免费商用", "个人免费", "试用版", "付费授权", "联系授权"],
+      "description": "授权类型（中文分类）"
+    },
+    "spdx": {
+      "type": ["string", "null"],
+      "description": "SPDX 许可证标识符（如 OFL-1.1、Apache-2.0、MIT、CC-BY-4.0、CC0-1.0）"
+    },
+    "licenseUrl": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "授权协议原文 URL（官方页面或 LICENSE 文件）"
+    },
+    "licenseFile": {
+      "type": ["string", "null"],
+      "description": "本仓库内的授权文件路径（如 licenses/Almmsht/LICENSE）"
+    },
+    "commercial": {
+      "type": "boolean",
+      "description": "是否允许商业使用"
+    },
+    "modification": {
+      "type": ["boolean", "null"],
+      "description": "是否允许修改字体文件"
+    },
+    "distribution": {
+      "type": ["boolean", "null"],
+      "description": "是否允许再分发"
+    },
+    "embedding": {
+      "type": ["boolean", "null"],
+      "description": "是否允许嵌入文档/应用"
+    },
+    "webUse": {
+      "type": ["boolean", "null"],
+      "description": "是否允许 Web 字体使用（@font-face）"
+    },
+    "attribution": {
+      "type": ["boolean", "null"],
+      "description": "是否需要署名"
+    },
+    "shareAlike": {
+      "type": ["boolean", "null"],
+      "description": "是否要求衍生作品使用相同许可证（Copyleft）"
+    },
+    "purchaseUrl": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "购买/申请授权链接（付费授权/联系授权时填写）"
+    },
+    "price": {
+      "type": ["number", "null"],
+      "description": "授权价格（人民币，付费授权时填写）"
+    },
+    "notes": {
+      "type": ["string", "null"],
+      "description": "补充说明（特殊条款、限制条件等）"
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "是否经过人工核实（false 表示 AI 生成待核实）"
+    },
+    "verifiedAt": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "人工核实日期，格式 YYYY-MM-DD"
+    },
+    "verifiedBy": {
+      "type": ["string", "null"],
+      "description": "核实人"
+    },
+    "source": {
+      "type": ["string", "null"],
+      "description": "授权信息来源（官网/邮件/文件等）"
+    }
+  }
+}
