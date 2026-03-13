@@ -2,7 +2,7 @@
   "normalizedName": "Almmsht",
   "type": "免费商用",
   "spdx": null,
-  "licenseUrl": "https://github.com/alimama-creative/AlimamaShuHeiTi",
+  "licenseUrl": null,
   "licenseFile": "licenses/Almmsht/LICENSE",
   "commercial": true,
   "modification": false,
@@ -17,5 +17,5 @@
   "verified": false,
   "verifiedAt": null,
   "verifiedBy": null,
-  "source": "官方 GitHub 仓库说明"
+  "source": "font-mapping.json (AI 分析)"
 }
