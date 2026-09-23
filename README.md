@@ -52,3 +52,25 @@ index.json             # 所有字体授权索引
 
 - `font-metadata` → 字体基本信息（通过 normalized_name 关联）
 - `font-foundries` → 厂商授权政策
+
+## 2026-09-24 OSS 核对
+
+桶 `wenfeng-fonts`（CDN `cn.windfonts.com`）当时 271312 个对象。字体许可原文只有两份，已抄进本仓 `972b5ab`：
+
+| 目录 | OSS 对象 | 本仓文件 |
+|---|---|---|
+| `Dlzht` 鼎猎珠海体 | `wenfeng/fonts/dlzht/license.pdf` | `LICENSE` 是排版断行接上后的摘录；`license.pdf` 是带签名的原件 |
+| `Opsa` OPPO Sans | `wenfeng/fonts/opsa/license.0 License Notice` | `LICENSE` 与对象字节对应（入库时换行被规范成 LF） |
+
+鼎猎珠海体授权说明（2024-09-03，登记号陕作登字-2024-F-00013790）允许把字体当画面用于设计和广告，并写明电子文件嵌入网站、计算机程序或带显示的电子产品不在授权范围内。原文没有写能否修改或再分发字体文件。`license-info.json` 的 `webUse`、`embedding` 为 false，`modification`、`distribution` 为 null。`verified` 仍是 false。
+
+OPPO Sans 协议（Copyright 2024 Guangdong OPPO）允许不修改地嵌入，并随非字体软件再分发。必须标明使用了 OPPO Sans。禁止修改，禁止单独再分发或出售字体文件。
+
+没有入库的同名对象：
+
+- `wenfeng/fonts/cszt/`：入户申请、Vue 笔记、Mantine README。
+- `wenfeng/fonts/test/`：心理健康报告、教学资源申请表。
+- 184 个 `wenfeng/fonts/<家族>/<字重>/*.zip`：只有 woff2、css、`reporter.json`。
+- `fonts-packages/`：网页字体包旁边没有 LICENSE / OFL.txt。
+
+128 个家族目录里，有 `LICENSE` 的是 10 个：上述 2 个，加上 `6a1b7f2` 的 8 份上游 OFL（Dyh、Btot、Hclcks、Yzklct、Ibmps、Ljmc、Xwmh、Zkklt）。其余 118 个目录仍只有 `license-info.json`。没有原文就不要写许可正文，也不要把 AI 句子当成原文。
