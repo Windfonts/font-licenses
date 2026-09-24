@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Syma",
+  "type": "免费商用",
+  "spdx": null,
+  "licenseUrl": "http://zhs.glyphwiki.org/wiki/GlyphWiki:著作权与许可协议",
+  "licenseFile": "licenses/Syma/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "GlyphWiki 著作权与许可协议（与花园明朝同源同条款）。基于醍醐书体与花园明朝制作；协议原文以 GlyphWiki 站点为准，上游 README「授权」节声明遵循该协议。",
+  "verified": true,
+  "verifiedAt": "2026-09-24",
+  "verifiedBy": "[CC]",
+  "source": "上游仓授权文件原文，2026-09-24 随包下载核对"
+}

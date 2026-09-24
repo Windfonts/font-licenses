@@ -93,3 +93,17 @@ OPPO Sans 协议（Copyright 2024 Guangdong OPPO）允许不修改地嵌入，�
 
 扛重族在 GitHub 接口上标 NOASSERTION，实际是 OFL 1.1：`LICENSE.txt` 是英文原文（版权头 Maoken/NightFurySL2001 + Adobe 保留名 Source），判断依据已写入两份 `license-info.json` 的 notes。
 
+## 2026-09-24 GuiWonder 批（七款，授权三类）
+
+来源 github.com/GuiWonder（尚古系列/合简/华英明朝/上元明朝作者），全部 `verified: true`：
+
+| 目录 | 字体 | 授权 | 上游仓 |
+|---|---|---|---|
+| `Sght` `Sgyt` `Sgdk` | 尚古黑体/圆体/等宽 | OFL-1.1 | Shanggu（仓内文件名是 LICENSE.txt，不是 OFL.txt） |
+| `Hjht` | 合简黑体 | OFL-1.1 | HeSimplFonts（同上） |
+| `Hymc` | 华英明朝（传承体 Classic） | IPA Font License v1.0 | HuayingMincho（全文随仓） |
+| `Syma` `Symb` | 上元明朝 A/B | GlyphWiki 协议 | LanternMing（README 授权节声明遵循 GlyphWiki 页面，与花园明朝同款） |
+
+IPA 许可要点：允许嵌入、再分发与衍生（衍生须更名），分发必须附条款全文——本仓 `Hymc/LICENSE` 即条款原文。上元明朝 A/B 没有独立许可文件，协议原文在 GlyphWiki 站点，`LICENSE` 存声明与出处链接。
+
+

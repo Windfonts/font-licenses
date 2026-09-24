@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Hymc",
+  "type": "免费商用",
+  "spdx": null,
+  "licenseUrl": "https://github.com/GuiWonder/HuayingMincho/blob/main/LICENSE.txt",
+  "licenseFile": "licenses/Hymc/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "IPA Font License Agreement v1.0 全文随上游仓携带。允许使用、嵌入、再分发与衍生（衍生须更名），分发须附本条款。基于 IPAmj 明朝，简体部分参考霞鹜新致宋。",
+  "verified": true,
+  "verifiedAt": "2026-09-24",
+  "verifiedBy": "[CC]",
+  "source": "上游仓授权文件原文，2026-09-24 随包下载核对"
+}
