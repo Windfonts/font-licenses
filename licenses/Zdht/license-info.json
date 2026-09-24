@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Zdht",
+  "type": "免费商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Buernia/Zhudou-Sans/blob/main/LICENSE",
+  "licenseFile": "licenses/Zdht/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "SIL OFL 1.1。衍生自 Noto Sans（Google），保留字体名 Zhudou。可商用、可修改、可再分发，不可单独售卖字体文件本体。",
+  "verified": true,
+  "verifiedAt": "2026-09-25",
+  "verifiedBy": "[CC]",
+  "source": "上游仓 LICENSE 原文，2026-09-25 随包下载核对"
+}
