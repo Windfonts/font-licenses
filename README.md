@@ -74,3 +74,7 @@ OPPO Sans 协议（Copyright 2024 Guangdong OPPO）允许不修改地嵌入，�
 - `fonts-packages/`：网页字体包旁边没有 LICENSE / OFL.txt。
 
 128 个家族目录里，有 `LICENSE` 的是 10 个：上述 2 个，加上 `6a1b7f2` 的 8 份上游 OFL（Dyh、Btot、Hclcks、Yzklct、Ibmps、Ljmc、Xwmh、Zkklt）。其余 118 个目录仍只有 `license-info.json`。没有原文就不要写许可正文，也不要把 AI 句子当成原文。
+
+## 2026-09-24 淘宝买菜体
+
+`Tbmct`：发行包内无许可文件，`LICENSE` 存官方页面声明原文摘录（fonts.alibabadesign.com / www.alibabafonts.com，「现这款字体向所有个人和组织开放，永久免费商用」），出处与核实链见 `license-info.json` 与 `LICENSE` 尾注。
