@@ -78,3 +78,18 @@ OPPO Sans 协议（Copyright 2024 Guangdong OPPO）允许不修改地嵌入，�
 ## 2026-09-24 淘宝买菜体
 
 `Tbmct`：发行包内无许可文件，`LICENSE` 存官方页面声明原文摘录（fonts.alibabadesign.com / www.alibabafonts.com，「现这款字体向所有个人和组织开放，永久免费商用」），出处与核实链见 `license-info.json` 与 `LICENSE` 尾注。
+
+## 2026-09-24 maoken 批（五款，均已核对 OFL 英文原文）
+
+来源 github.com/maoken-fonts，五款全部 `spdx: OFL-1.1`、`verified: true`：
+
+| 目录 | 字体 | 上游仓 |
+|---|---|---|
+| `Frexsans` | 械黑 Frex Sans GB | frex-sans（含 IBM Plex Sans 衍生版权行与保留名 Plex） |
+| `Jnmy` | 荆南麦圆 | KNMaiyuan |
+| `Mkybkjs` | 猫啃硬笔楷书 | MaokenYingBiKaiShuJ（随包取仓内 0.20 版 OFL） |
+| `Mkkzh` | 猫啃扛重族黑 | maoken-heavy-labourer（LICENSE.txt 为英文原文，另有中译 LICENSE_ZHS） |
+| `Mkkzs` | 猫啃扛重族宋 | 同上，两族共用一份上游许可 |
+
+扛重族在 GitHub 接口上标 NOASSERTION，实际是 OFL 1.1：`LICENSE.txt` 是英文原文（版权头 Maoken/NightFurySL2001 + Adobe 保留名 Source），判断依据已写入两份 `license-info.json` 的 notes。
+
