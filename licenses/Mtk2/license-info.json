@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Mtk2",
+  "type": "免费商用",
+  "spdx": null,
+  "licenseUrl": "https://data.gov.tw/license",
+  "licenseFile": "licenses/Mtk2/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "双授权：台湾政府资料开放授权条款 1.0 或 SIL OFL 1.1 任选其一（声明内嵌字体 name 表，已核对）。衍生自数位发展部全字库字型，FWHP 修改。",
+  "verified": true,
+  "verifiedAt": "2026-09-25",
+  "verifiedBy": "[CC]",
+  "source": "字体 name 表内嵌双授权声明"
+}

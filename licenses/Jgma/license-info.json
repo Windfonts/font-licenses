@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Jgma",
+  "type": "免费商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": null,
+  "licenseFile": null,
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "OFL 1.1（依上游链：源流明体 ButTaiwan OFL × 齐伋体 灵动 OFL），上游仓未携授权原文，待补后升级 verified。衍生链：源流明体（←思源宋体）→ 汲古明体（FWHP）。",
+  "verified": false,
+  "verifiedAt": null,
+  "verifiedBy": null,
+  "source": "字体 name 表版权行；github.com/FWHP-Enfun/JiGu-Ming 无授权文件"
+}
