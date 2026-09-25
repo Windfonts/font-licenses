@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Fupx",
+  "type": "免费商用",
+  "spdx": "MIT",
+  "licenseUrl": "https://github.com/TakWolf/fusion-pixel-font/blob/main/LICENSE",
+  "licenseFile": null,
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "MIT License，原文随上游仓携带并核对。可商用、可修改、可再分发，须保留版权与许可声明。",
+  "verified": true,
+  "verifiedAt": "2026-09-25",
+  "verifiedBy": "[CC]",
+  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+}

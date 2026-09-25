@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Shp",
+  "type": "免费商用",
+  "spdx": "MIT",
+  "licenseUrl": "https://github.com/44670/SourceHanSans-Pixel/blob/master/LICENSE",
+  "licenseFile": null,
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "MIT（像素化改作）+ 思源黑体 SIL OFL 1.1（上游字形，LICENSE.SourceHanSans 随仓）。双授权链已核对。",
+  "verified": true,
+  "verifiedAt": "2026-09-25",
+  "verifiedBy": "[CC]",
+  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+}

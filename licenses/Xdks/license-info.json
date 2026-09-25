@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Xdks",
+  "type": "免费商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Skr-ZERO/Xuandong-Kaishu/blob/main/LICENSE",
+  "licenseFile": null,
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "SIL OFL 1.1（基于 Google Fonts 马善政毛笔楷书 OFL 拓展，双链已核）。",
+  "verified": true,
+  "verifiedAt": "2026-09-25",
+  "verifiedBy": "[CC]",
+  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+}

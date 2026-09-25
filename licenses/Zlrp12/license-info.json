@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Zlrp12",
+  "type": "免费商用",
+  "spdx": "MIT",
+  "licenseUrl": "https://github.com/Astro-2539/ZLabs-RoundPix-12px/blob/main/LICENSE",
+  "licenseFile": null,
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "MIT License（Zlrp12 含上游 x12y12pxMaruMinya 授权链）。",
+  "verified": true,
+  "verifiedAt": "2026-09-25",
+  "verifiedBy": "[CC]",
+  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+}

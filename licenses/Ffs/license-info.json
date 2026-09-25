@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Ffs",
+  "type": "免费商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Skr-ZERO/FlyFlowerSong/blob/main/LICENSE",
+  "licenseFile": null,
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "开源授权（上游随仓，原文待补核）。",
+  "verified": false,
+  "verifiedAt": null,
+  "verifiedBy": null,
+  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+}
