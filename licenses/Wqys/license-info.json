@@ -13,7 +13,7 @@
   "shareAlike": true,
   "purchaseUrl": null,
   "price": null,
-  "notes": "GPL+字体例外：可商用、可修改、可再分发（再分发须随附许可与源文件，不得附加限制）；例外条款=把字体嵌入文档/程序不使该文档染 GPL。旧备注「不可修改后再分发」与 GPL 相抵，已纠正。 点阵宋体（Zen Hei Sharp 位图风格），随正黑包同发同授；库内版本为位图转静态 TTF。",
+  "notes": "GPL+字体例外：可商用、可修改、可再分发（再分发须随附许可与源文件，不得附加限制）；例外条款=把字体嵌入文档/程序不使该文档染 GPL。本款为独立的 wqy-bitmapfont 点阵宋体项目（文泉驿最早期的位图宋体，非 Zen Hei 正黑系子款），库内版本为位图转静态 TTF；点点像素系列的上游。",
   "verified": true,
   "verifiedAt": "2026-09-25",
   "verifiedBy": "[CC]",
