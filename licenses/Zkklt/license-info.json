@@ -1,8 +1,8 @@
 {
   "normalizedName": "Zkklt",
-  "type": "免费商用",
+  "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolkuaile/OFL.txt",
+  "licenseUrl": "https://openfontlicense.org/",
   "licenseFile": "licenses/Zkklt/LICENSE",
   "commercial": true,
   "modification": true,
@@ -13,9 +13,9 @@
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
-  "notes": "许可原文来自上游 OFL-1.1：https://raw.githubusercontent.com/google/fonts/main/ofl/zcoolkuaile/OFL.txt",
-  "verified": false,
-  "verifiedAt": null,
-  "verifiedBy": null,
-  "source": "upstream OFL file copied 2026-09-24"
+  "notes": "SIL OFL 1.1（Google Fonts 托管）：可免费商用、可修改与再分发，修改版须遵守 RFN 规则改名。",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "zcool 官方字库页/Google Fonts",
+  "source": "https://fonts.google.com/specimen/ZCOOL+KuaiLe"
 }
