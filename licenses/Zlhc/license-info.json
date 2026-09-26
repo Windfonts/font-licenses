@@ -1,21 +1,21 @@
 {
   "normalizedName": "Zlhc",
-  "type": "免费商用",
+  "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://github.com/Astro-2539/ZLabs-Bitmap-HC/blob/main/LICENSE",
-  "licenseFile": null,
+  "licenseUrl": "https://github.com/Astro-2539/ZLabs-Bitmap-HC",
+  "licenseFile": "licenses/Zlhc/LICENSE",
   "commercial": true,
   "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
-  "notes": "SIL OFL 1.1，原文随上游仓携带并核对。可商用、可修改、可再分发，衍生须改用新名，禁止单独售卖字体文件。",
+  "notes": null,
   "verified": true,
-  "verifiedAt": "2026-09-25",
+  "verifiedAt": "2026-09-26",
   "verifiedBy": "[CC]",
-  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+  "source": "upstream Astro-2539/ZLabs-Bitmap-HC LICENSE"
 }

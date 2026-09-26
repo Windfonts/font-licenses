@@ -1,18 +1,19 @@
 {
   "normalizedName": "Ysxh",
-  "type": "免费商用",
-  "spdx": null,
-  "licenseUrl": "https://www.100font.com/thread-152.htm",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://www.maoken.com/freefonts/4535.html",
   "commercial": true,
-  "modification": false,
+  "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": false,
-  "notes": "Keynote 研究所出品（人生哥发布），作者声明永久免费商用（100font 官方发布页）。字稿作者各自署名；修改与转售条款以官方页声明为准。",
+  "notes": "官方仓不存在或无 license 文件，以发布页授权声明原文归档",
   "verified": true,
   "verifiedAt": "2026-09-26",
-  "verifiedBy": "100font 官方发布页 / Keynote 研究所声明",
-  "source": "https://www.100font.com/thread-152.htm"
+  "verifiedBy": "[CC]",
+  "source": "官方/收录声明页原文归档（https://www.maoken.com/freefonts/4535.html）",
+  "licenseFile": "licenses/Ysxh/LICENSE"
 }

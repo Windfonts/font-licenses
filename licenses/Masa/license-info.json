@@ -1,0 +1,19 @@
+{
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseFile": "licenses/Masa/LICENSE",
+  "licenseUrl": "https://max-everyday.com/2020/05/masafont/",
+  "source": "作者 Max（max-everyday.com）发布页「著作權與授權」段原文；配套仓 max32002/masafont 无独立 LICENSE",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": false,
+  "notes": "作者实为台湾 Max（max-everyday），平台 designer「Aqua/阿杰」有误待改；母本=青柳衡山毛筆行書",
+  "normalizedName": "Masa"
+}
