@@ -1,0 +1,18 @@
+{
+  "normalizedName": "Mxhn",
+  "spdx": "OFL-1.1",
+  "licenseFile": "licenses/Mxhn/LICENSE",
+  "licenseUrl": "https://github.com/max32002/max-hana/blob/master",
+  "source": "upstream max32002/max-hana (branch master)",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "type": "开源商用",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": false
+}

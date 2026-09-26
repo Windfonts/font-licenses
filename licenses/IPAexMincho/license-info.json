@@ -1,0 +1,19 @@
+{
+  "spdx": "IPA-1.0",
+  "type": "开源商用",
+  "licenseFile": "licenses/IPAexMincho/LICENSE",
+  "licenseUrl": "https://opensource.org/licenses/IPA",
+  "source": "IPA Font License 1.0 官方全文（OSI 收录，steward=独立行政法人情報処理推進機構）",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": true,
+  "notes": "IPAex明朝 官方随包许可，OSI 全文归档",
+  "normalizedName": "IPAexMincho"
+}

@@ -1,21 +1,21 @@
 {
   "normalizedName": "Kys",
-  "type": "免费商用",
+  "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://github.com/Miiiller/Kongyuan-Sans/blob/main/SIL_Open_Font_License_1.1.txt",
-  "licenseFile": null,
+  "licenseUrl": "https://github.com/Miiiller/Kongyuan-Sans/blob/main",
+  "licenseFile": "licenses/Kys/LICENSE",
   "commercial": true,
   "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
   "notes": "SIL OFL 1.1，原文随仓。",
   "verified": true,
-  "verifiedAt": "2026-09-25",
+  "verifiedAt": "2026-09-26",
   "verifiedBy": "[CC]",
-  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+  "source": "upstream Miiiller/Kongyuan-Sans (branch main)"
 }

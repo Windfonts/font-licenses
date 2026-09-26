@@ -1,9 +1,9 @@
 {
   "normalizedName": "Ffs",
-  "type": "免费商用",
-  "spdx": "OFL-1.1",
-  "licenseUrl": "https://github.com/Skr-ZERO/FlyFlowerSong/blob/main/LICENSE",
-  "licenseFile": null,
+  "type": "开源商用",
+  "spdx": null,
+  "licenseUrl": "https://github.com/Skr-ZERO/FlyFlowerSong",
+  "licenseFile": "licenses/Ffs/LICENSE",
   "commercial": true,
   "modification": true,
   "distribution": true,
@@ -13,9 +13,9 @@
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
-  "notes": "开源授权（上游随仓，原文待补核）。",
-  "verified": false,
-  "verifiedAt": null,
-  "verifiedBy": null,
-  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+  "notes": "授权实为 GlyphWiki 字形数据许可（自由使用、复制、转载，含商用），非 OFL——fonts.json licenseName 待修正",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "source": "上游仓 README「授权信息」段原文（声明遵循 GlyphWiki 著作权与许可协议）"
 }

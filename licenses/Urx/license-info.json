@@ -1,21 +1,21 @@
 {
   "normalizedName": "Urx",
-  "type": "免费商用",
+  "type": "开源商用",
   "spdx": "GPL-2.0",
-  "licenseUrl": "https://github.com/scott0107000/Uranus-Pixel",
-  "licenseFile": null,
+  "licenseUrl": "https://github.com/scott0107000/Uranus-Pixel/blob/main",
+  "licenseFile": "licenses/Urx/LICENSE",
   "commercial": true,
   "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": true,
   "purchaseUrl": null,
   "price": null,
   "notes": "GPL-2.0（天王星像素），随上游仓携带核对。",
   "verified": true,
-  "verifiedAt": "2026-09-25",
+  "verifiedAt": "2026-09-26",
   "verifiedBy": "[CC]",
-  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+  "source": "upstream scott0107000/Uranus-Pixel (branch main)"
 }

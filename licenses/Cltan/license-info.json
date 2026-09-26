@@ -1,21 +1,21 @@
 {
   "normalizedName": "Cltan",
-  "type": "免费商用",
+  "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://github.com/Warren2060/ChillTanHei/blob/main/LICENSE",
-  "licenseFile": null,
+  "licenseUrl": "https://github.com/Warren2060/ChillTanHei/blob/main",
+  "licenseFile": "licenses/Cltan/LICENSE",
   "commercial": true,
   "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
   "notes": "SIL OFL 1.1，原文随上游仓携带并核对（寒蝉字型系列惯例）。",
   "verified": true,
-  "verifiedAt": "2026-09-25",
+  "verifiedAt": "2026-09-26",
   "verifiedBy": "[CC]",
-  "source": "上游仓授权原文，2026-09-25 随包下载核对"
+  "source": "upstream Warren2060/ChillTanHei (branch main)"
 }

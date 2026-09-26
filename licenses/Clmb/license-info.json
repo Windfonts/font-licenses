@@ -1,6 +1,6 @@
 {
   "normalizedName": "Clmb",
-  "type": "免费商用",
+  "type": "待核实",
   "spdx": "OFL-1.1",
   "licenseUrl": "https://github.com/Warren2060/ChillMatrixBlack/blob/main/LICENSE",
   "licenseFile": null,
@@ -13,7 +13,7 @@
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
-  "notes": "寒蝉矩黑 Demo 版，授权以上游 README 为准（正式发布后复核）。",
+  "notes": "上游仓（README）无授权文件与授权声明；声明页待取（寒蝉字型官方发布页）",
   "verified": false,
   "verifiedAt": null,
   "verifiedBy": null,

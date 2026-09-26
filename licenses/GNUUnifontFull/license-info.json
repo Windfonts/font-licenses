@@ -1,0 +1,19 @@
+{
+  "spdx": "GPL-2.0-or-later WITH Font-exception OR OFL-1.1",
+  "type": "开源商用",
+  "licenseFile": "licenses/GNUUnifontFull/LICENSE",
+  "licenseUrl": "https://unifoundry.com/LICENSE.txt",
+  "source": "unifoundry.com 官方 LICENSE",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": true,
+  "notes": "GNU Unifont 双许可：GPL-2.0-or-later（含字体嵌入例外）或 OFL-1.1；存 unifoundry 官方 LICENSE 说明全文",
+  "normalizedName": "GNUUnifontFull"
+}

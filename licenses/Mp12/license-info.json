@@ -1,0 +1,19 @@
+{
+  "normalizedName": "Mp12",
+  "type": "开源商用",
+  "spdx": "MPlus-Bitmap-License",
+  "licenseFile": "licenses/Mp12/LICENSE",
+  "licenseUrl": "https://mplus-fonts.osdn.jp/mplus-bitmap-fonts/",
+  "source": "M+ BITMAP FONTS 官方许可全文（经 ttf-bdfumplus-outline LICENSE.md 镜像核验）",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "notes": "M+ gothic 12r 即 mplus_j12r/f12r 位图字体；M+ 位图许可=自由使用复制分发修改（含商用），无署名强制"
+}

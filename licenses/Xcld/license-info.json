@@ -1,18 +1,19 @@
 {
   "normalizedName": "Xcld",
   "type": "开源商用",
-  "spdx": null,
-  "licenseUrl": "https://github.com/Miiiller",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Miiiller/Xiangcui-ZeroHei/blob/main",
   "commercial": true,
   "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": false,
   "notes": "授权依据=官方发布页/上游仓（2026-09-26 记录；原文文件待抓取后补）。",
-  "verified": false,
-  "verifiedAt": null,
-  "verifiedBy": null,
-  "source": "https://github.com/Miiiller"
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "source": "upstream Miiiller/Xiangcui-ZeroHei (branch main)",
+  "licenseFile": "licenses/Xcld/LICENSE"
 }

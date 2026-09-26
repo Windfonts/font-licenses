@@ -1,18 +1,19 @@
 {
   "normalizedName": "Sly1",
-  "type": "免费商用",
-  "spdx": null,
-  "licenseUrl": "https://www.100font.com/thread-152.htm",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/maoken-fonts/slidefont/blob/main/OFL.txt",
   "commercial": true,
-  "modification": false,
+  "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": false,
   "notes": "Keynote 研究所出品（人生哥发布），作者声明永久免费商用（100font 官方发布页）。字稿作者各自署名；修改与转售条款以官方页声明为准。",
   "verified": true,
   "verifiedAt": "2026-09-26",
-  "verifiedBy": "100font 官方发布页 / Keynote 研究所声明",
-  "source": "https://www.100font.com/thread-152.htm"
+  "verifiedBy": "[CC]",
+  "source": "演示字体系列官方仓 maoken-fonts/slidefont 根级 OFL.txt（Slideyouran 同仓覆盖）",
+  "licenseFile": "licenses/Sly1/LICENSE"
 }

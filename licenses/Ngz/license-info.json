@@ -1,21 +1,21 @@
 {
   "normalizedName": "Ngz",
-  "type": "免费商用",
+  "type": "开源商用",
   "spdx": "GPL-3.0",
-  "licenseUrl": "https://github.com/scott0107000/Nightgazer-Bitmap",
-  "licenseFile": null,
+  "licenseUrl": "https://github.com/scott0107000/Nightgazer-Bitmap/blob/main/LICENSE",
+  "licenseFile": "licenses/Ngz/LICENSE",
   "commercial": true,
   "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": true,
   "purchaseUrl": null,
   "price": null,
   "notes": "GPL-3.0（夜照飞点阵系列）。再分发须随附 GPL 与源文件；嵌入文档不传染由字体例外或按 GPL 字体条款处理，详上游 README。",
   "verified": true,
-  "verifiedAt": "2026-09-25",
+  "verifiedAt": "2026-09-26",
   "verifiedBy": "[CC]",
-  "source": "上游仓 LICENSE 核对"
+  "source": "upstream scott0107000/Nightgazer-Bitmap@main LICENSE"
 }
