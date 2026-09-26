@@ -1,18 +1,19 @@
 {
   "normalizedName": "Slyr",
-  "type": "免费商用",
-  "spdx": null,
-  "licenseUrl": "https://www.100font.com/thread-152.htm",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/maoken-fonts/slidefont",
+  "licenseFile": "licenses/Slyr/LICENSE",
   "commercial": true,
-  "modification": false,
+  "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
   "attribution": false,
   "shareAlike": false,
-  "notes": "Keynote 研究所出品（人生哥发布），作者声明永久免费商用（100font 官方发布页）。字稿作者各自署名；修改与转售条款以官方页声明为准。",
+  "notes": "SlideFont Project（Keynote 研究所）官方仓 maoken-fonts/slidefont 随仓 OFL.txt，SIL OFL 1.1 正式开源：可免费商用、可修改与再分发（修改版须遵守 RFN）。",
   "verified": true,
   "verifiedAt": "2026-09-26",
-  "verifiedBy": "100font 官方发布页 / Keynote 研究所声明",
-  "source": "https://www.100font.com/thread-152.htm"
+  "verifiedBy": "maoken-fonts/slidefont 随仓 OFL.txt",
+  "source": "https://github.com/maoken-fonts/slidefont"
 }
