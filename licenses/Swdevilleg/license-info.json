@@ -1,0 +1,19 @@
+{
+  "normalizedName": "Swdevilleg",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "",
+  "licenseFile": "licenses/Swdevilleg/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "notes": "授权原文自上游/官方源归档（2026-09-26 批次②③）。",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "上游仓原文",
+  "source": "上游仓"
+}
