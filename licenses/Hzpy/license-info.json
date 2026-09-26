@@ -1,21 +1,21 @@
 {
   "normalizedName": "Hzpy",
-  "type": "待核实",
-  "spdx": null,
+  "type": "开源商用",
+  "spdx": "Apache-2.0",
   "licenseUrl": "https://github.com/parlr/hanzi-pinyin-font",
   "licenseFile": "licenses/Hzpy/LICENSE",
   "commercial": true,
-  "modification": false,
+  "modification": true,
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
-  "notes": "两证矛盾：仓 LICENSE=Apache-2.0，README License 段=CC-BY-SA-4.0，TTF 版权字段为空——需人工拍板以哪个为准",
-  "verified": false,
+  "notes": "feibisi 2026-09-26 拍板按 Apache-2.0（随仓 LICENSE 文件口径）；README License 段 CC-BY-SA-4.0 与之矛盾，以随仓 LICENSE 为准",
+  "verified": true,
   "verifiedAt": "2026-09-26",
   "verifiedBy": "[CC]",
-  "source": "上游仓 LICENSE（Apache-2.0 文本）"
+  "source": "上游仓 parlr/hanzi-pinyin-font 随仓 LICENSE（Apache-2.0 全文）"
 }
