@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Hccqqh",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Warren2060/ChillCalligraphy",
+  "licenseFile": "licenses/Hccqqh/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": false,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "寒蝉字型 ChillCalligraphy 春秋 v1.650（秋鸿）。SIL OFL 1.1；上游 slidefont OFL。",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[Foundry]",
+  "source": "Warren2060/ChillCalligraphy + maoken-fonts/slidefont OFL"
+}
