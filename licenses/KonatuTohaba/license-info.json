@@ -1,0 +1,19 @@
+{
+  "normalizedName": "KonatuTohaba",
+  "type": "开源商用",
+  "spdx": "MIT",
+  "licenseFile": "licenses/KonatuTohaba/LICENSE",
+  "licenseUrl": "https://www.masuseki.com/wp/?p=233",
+  "source": "官方发布包随包 README 原文（This work is licensed under The MIT License，作者 MASUDA mitiya）",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": false,
+  "notes": "小夏等幅（Konatu Tohaba）；随包声明即授权原文，位图嵌入 TrueType"
+}

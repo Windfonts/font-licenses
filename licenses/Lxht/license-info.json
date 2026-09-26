@@ -1,0 +1,19 @@
+{
+  "normalizedName": "Lxht",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseFile": "licenses/Lxht/LICENSE",
+  "licenseUrl": "https://github.com/feiyangjun-1/Sumr-Sans",
+  "source": "上游仓随仓 LICENSE（SIL OFL 1.1 全文）",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": false,
+  "notes": "立夏黑体 Sumr Sans；底本小夏（MIT）经 zi2zi-JiT 风格学习增补汉字，结构参考文渊黑/宋体；README 声明 OFL 可免费商用随意修改"
+}
