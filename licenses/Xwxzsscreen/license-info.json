@@ -1,0 +1,19 @@
+{
+  "normalizedName": "Xwxzsscreen",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "",
+  "licenseFile": "licenses/Xwxzsscreen/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "notes": "授权原文自上游/家族仓归档（2026-09-26 批次⑤）。霞鹜系同作者同 OFL；思源系 adobe-fonts LICENSE.txt。",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "上游仓原文/家族同授权",
+  "source": "上游仓"
+}
