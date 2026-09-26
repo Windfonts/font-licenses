@@ -1,6 +1,6 @@
 {
   "normalizedName": "Nani",
-  "type": "免费商用",
+  "type": "开源商用",
   "spdx": "OFL-1.1",
   "licenseUrl": null,
   "licenseFile": "licenses/Nani/LICENSE",
@@ -9,13 +9,13 @@
   "distribution": true,
   "embedding": true,
   "webUse": true,
-  "attribution": false,
+  "attribution": true,
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
   "notes": "原作 Nanigashitei（2016-2020），Aqua 渠道再分发。2026-09-24 去重：nani(1.046 新版) 保留并归属改回 Nanigashitei，hmsx(1.036 旧版) 转 archived 并加家族别名。SPDX 沿用批次映射口径，原文待核。",
-  "verified": false,
-  "verifiedAt": null,
-  "verifiedBy": null,
-  "source": "fonts.name 表版权行 + OSS freefont 批次映射"
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "source": "何某手写体 NaniFont（なにか亭）随包 OFL 原文，入库版本 v1.046（字体 name 表自报）"
 }
