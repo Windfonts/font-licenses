@@ -2,7 +2,7 @@
   "normalizedName": "Hyqzpt",
   "type": "免费商用",
   "spdx": null,
-  "licenseUrl": null,
+  "licenseUrl": "https://www.maoken.com/freefonts/915.html",
   "licenseFile": "licenses/Hyqzpt/LICENSE",
   "commercial": true,
   "modification": false,
@@ -13,9 +13,9 @@
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
-  "notes": "可免费商用，不可修改字体文件后再分发，不可单独售卖字体文件",
-  "verified": false,
-  "verifiedAt": null,
-  "verifiedBy": null,
-  "source": "font-mapping.json (AI 分析)"
+  "notes": "实为「黄引齐招牌体」（平台名讹误已改）；作者黄引齐官网 2013 年后停更，无 OFL 文件——原开源商用标注已修正",
+  "verified": true,
+  "verifiedAt": "2026-09-26",
+  "verifiedBy": "[CC]",
+  "source": "猫啃网收录页声明原文归档 licenses/Hyqzpt/LICENSE（作者声明：企业、个人均可免费商用）"
 }
