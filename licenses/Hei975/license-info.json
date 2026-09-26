@@ -1,9 +1,9 @@
 {
-  "normalizedName": "Zkklt",
+  "normalizedName": "Hei975",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://www.zcool.com.cn/special/zcoolfonts/",
-  "licenseFile": "licenses/Zkklt/LICENSE",
+  "licenseUrl": "",
+  "licenseFile": "licenses/Hei975/LICENSE",
   "commercial": true,
   "modification": true,
   "distribution": true,
@@ -15,5 +15,5 @@
   "verified": true,
   "verifiedAt": "2026-09-26",
   "verifiedBy": "上游仓原文",
-  "source": "https://www.zcool.com.cn/special/zcoolfonts/"
+  "source": "上游仓"
 }

@@ -3,7 +3,7 @@
   "type": "开源商用",
   "spdx": "OFL-1.1",
   "licenseUrl": "https://fonts.google.com/specimen/ZCOOL+XiaoWei",
-  "licenseFile": null,
+  "licenseFile": "licenses/Zkxwt/LICENSE",
   "commercial": true,
   "modification": true,
   "distribution": true,
@@ -11,11 +11,9 @@
   "webUse": true,
   "attribution": false,
   "shareAlike": false,
-  "purchaseUrl": null,
-  "price": null,
-  "notes": "SIL OFL 1.1（googlefonts/zcool-xiaowei 随仓原文）：可免费商用、可修改与再分发，修改版须改名。2026-09-26 起本条对应 GF 版站酷小薇体 v1.000（原站酷小薇LOGO体 v1.00 已下线替换）。",
+  "notes": "授权原文随上游仓拉取归档（2026-09-26 批次①GF 与作者仓）。",
   "verified": true,
   "verifiedAt": "2026-09-26",
-  "verifiedBy": "googlefonts/zcool-xiaowei 随仓 OFL.txt",
-  "source": "https://github.com/googlefonts/zcool-xiaowei"
+  "verifiedBy": "上游仓原文",
+  "source": "https://fonts.google.com/specimen/ZCOOL+XiaoWei"
 }
