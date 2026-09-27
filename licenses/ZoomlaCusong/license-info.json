@@ -1,0 +1,21 @@
+{
+  "norm": "ZoomlaCusong",
+  "spdx": "Apache-2.0",
+  "licenseName": "Apache License 2.0 (repo root; no per-font OFL)",
+  "notOFL": true,
+  "label": "apache_ok",
+  "isolateFrom": "ofl_ok",
+  "nameTableConflict": "未经书面许可不得用于商业使用",
+  "fengOrder": "09 06 都要，既然是他们自家的那就都要",
+  "binaryPin": {
+    "path": "fonts/ZoomlaCusong/Regular.otf",
+    "sha256": "a56b46dcde472cb42c07ee5c6e86c6a166746132133c28fe1b43a3ad46c594ca",
+    "bytes": 2413248,
+    "note": "extension .otf but sfnt TrueType"
+  },
+  "sources": [
+    "https://github.com/zoomla/ZoomlaFont"
+  ],
+  "wave": "2026-09-27-zoomla-hang",
+  "cdn": "PENDING_BOT"
+}

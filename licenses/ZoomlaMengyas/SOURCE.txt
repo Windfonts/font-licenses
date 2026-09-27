@@ -1,0 +1,10 @@
+family: ZoomlaMengyas / 逐浪萌芽字
+prefer_repo: https://github.com/z01font/ZoomlaMengyas (SPDX OFL-1.1)
+binary: 04_成品：ZoomlaMengyas逐浪萌芽字.ttf
+sha256: 695a57e7bcaff9a261fd5452e6681a9e6d80023a907e3dc253cc83be5cb5fb97
+bytes: 2624088
+same_sha_also_in_monorepo: https://github.com/zoomla/ZoomlaFont (folder 09)
+OFL: no Reserved Font Name line after copyright
+label: ofl_ok
+wave: 2026-09-27-zoomla-hang
+cdn: PENDING_BOT

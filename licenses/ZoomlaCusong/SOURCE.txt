@@ -1,0 +1,13 @@
+family: ZoomlaCusong / 逐浪粗宋简体
+monorepo: https://github.com/zoomla/ZoomlaFont (Apache-2.0 root)
+folder: 06逐浪粗宋简体@一套完全开源字库项目
+binary: 逐浪粗宋1.0_成品发布.otf
+sha256: a56b46dcde472cb42c07ee5c6e86c6a166746132133c28fe1b43a3ad46c594ca
+bytes: 2413248
+folder_note: 无旁挂 OFL
+name_table_conflict: 未经书面许可不得用于商业使用
+Feng_order_2026-09-27: 09 06 都要，既然是他们自家的那就都要 → apache_ok (NOT ofl_ok)
+label: apache_ok
+wave: 2026-09-27-zoomla-hang
+cdn: PENDING_BOT
+do_not_confuse_with: 香萃等粗宋 (Xcdc)
