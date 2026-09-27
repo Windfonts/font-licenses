@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Kokoro",
+  "type": "开源商用",
+  "spdx": "IPA-1.0",
+  "licenseUrl": "https://opensource.org/licenses/IPA",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": true,
+  "notes": "typingart.net こころ明朝体 Ver.1.00 (2014/09/06). Official page ?p=46 currently 404; pin via luxcem/typingart-fonts@d7d6a46 backup (kokoro.zip sha matches published sha256sum). IPA Font License 1.0 — NOT OFL. IPA Font License 1.0. CDN STOPPED. Redistrib of originals OK unmodified+license attached; derivatives need Art.3 §1 (replace-back / no IPA in name).",
+  "verified": true,
+  "verifiedAt": "2026-09-27",
+  "verifiedBy": "official zip IPA_Font_License_Agreement_v1.0.txt",
+  "source": "https://typingart.net/",
+  "pin": "d7d6a46e41913bb0ce0cf5def1b34208b3c98529",
+  "archiveSha256": "e4566175799d52f9e3b6dd8774596428ea27dd40596e1283aa627689e5ac98d8",
+  "fileSha256": "d0e06423e469754aa0483398a4fa02ea9e26b3104c0c6dbe7331d40b7804c8f3"
+}

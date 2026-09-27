@@ -1,0 +1,21 @@
+{
+  "normalizedName": "IPAexGothic",
+  "type": "开源商用",
+  "spdx": "IPA-1.0",
+  "licenseUrl": "https://opensource.org/licenses/IPA",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": true,
+  "notes": "moji.or.jp IPAex Gothic Ver.004.01 · ipaexg00401.zip IPA Font License 1.0. CDN STOPPED. Redistrib of originals OK unmodified+license attached; derivatives need Art.3 §1 (replace-back / no IPA in name).",
+  "verified": true,
+  "verifiedAt": "2026-09-27",
+  "verifiedBy": "official zip IPA_Font_License_Agreement_v1.0.txt",
+  "source": "https://moji.or.jp/ipafont/ipaex00401/",
+  "pin": "ipaexg00401",
+  "archiveSha256": "4ab6fee94bf6f94b3eeb31be2b73c559f738dc6b336d722d5301b1f3f592f850",
+  "fileSha256": "3b9955a5e437ffb24c41548e79296fa724822da21ee75dc1b94f6ccdb8f400dd"
+}
