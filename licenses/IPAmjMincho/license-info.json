@@ -1,0 +1,22 @@
+{
+  "normalizedName": "IPAmjMincho",
+  "type": "开源商用",
+  "spdx": "IPA-1.0",
+  "licenseUrl": "https://opensource.org/licenses/IPA",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": true,
+  "notes": "moji.or.jp / 文字情報技術促進協議会 IPAmj明朝 Ver.006.01 · ipamjm00601.zip（窓の杜 dforest 镜像） IPA Font License 1.0. CDN STOPPED. Redistrib of originals OK unmodified+license attached; derivatives need Art.3 §1 (replace-back / no IPA in name).",
+  "verified": true,
+  "verifiedAt": "2026-09-27",
+  "verifiedBy": "official zip IPA_Font_License_Agreement_v1.0.txt + TTF MD5 beee256d… matches moji.or.jp",
+  "source": "https://moji.or.jp/mojikiban/font/",
+  "pin": "ipamjm00601",
+  "archiveSha256": "35494e0f2896f38b3f7369a8421a895cea6440a42c0a66ac95eab47d6ed25b68",
+  "fileSha256": "a3e84f495f3c388db7a1473bf1985c1c076d0c814100f10a027ca6853eb1e8cb",
+  "fileMd5": "beee256d4ffec4c40493805a4d7e5cdd"
+}
