@@ -1,0 +1,606 @@
+{
+ "$schema": "norm → GitHub 上游 → feicode 镜像 映射总表（wenfeng.org source 档案数据源；镜像仓 pull mirror 8h 自动同步）",
+ "generated": "2026-09-28",
+ "counts": {
+  "fonts": 99,
+  "mirrored": 97,
+  "skipped": 2,
+  "pending": 0
+ },
+ "fonts": [
+  {
+   "norm": "Arkp",
+   "upstream": "https://github.com/TakWolf/ark-pixel-font",
+   "feicode_mirror": "https://feicode.com/TakWolf/ark-pixel-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Bb7",
+   "upstream": "https://github.com/scott0107000/BoutiqueBitmap7x7",
+   "feicode_mirror": "https://feicode.com/scott0107000/BoutiqueBitmap7x7",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Bb9",
+   "upstream": "https://github.com/scott0107000/BoutiqueBitmap9x9",
+   "feicode_mirror": "https://feicode.com/scott0107000/BoutiqueBitmap9x9",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Ckbf",
+   "upstream": "https://github.com/FWHP-Enfun/Crooked-Black-Fun",
+   "feicode_mirror": "https://feicode.com/FWHP-Enfun/Crooked-Black-Fun",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Clcalli",
+   "upstream": "https://github.com/Warren2060/ChillCalligraphy",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillCalligraphy",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Cldin",
+   "upstream": "https://github.com/Warren2060/ChillDIN-ChillDINGothic",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillDIN-ChillDINGothic",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Clduan",
+   "upstream": "https://github.com/Warren2060/ChillDuanSans",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillDuanSans",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Clg",
+   "upstream": "https://github.com/Warren2060/ChillGSans",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillGSans",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Clhfs",
+   "upstream": "https://github.com/Warren2060/ChillMovableType",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillMovableType",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Clmb",
+   "upstream": "https://github.com/Warren2060/ChillMatrixBlack",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillMatrixBlack",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Cltan",
+   "upstream": "https://github.com/Warren2060/ChillTanHei",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillTanHei",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Cylyt",
+   "upstream": "https://github.com/Chenyu-otf/chenyuluoyan_thin",
+   "feicode_mirror": "https://feicode.com/Chenyu-otf/chenyuluoyan_thin",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Ddxstfx",
+   "upstream": "https://github.com/wixette/dotted-chinese-fonts",
+   "feicode_mirror": "https://feicode.com/wixette/dotted-chinese-fonts",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Ddxstlx",
+   "upstream": "https://github.com/wixette/dotted-chinese-fonts",
+   "feicode_mirror": "https://feicode.com/wixette/dotted-chinese-fonts",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Ddxstyx",
+   "upstream": "https://github.com/wixette/dotted-chinese-fonts",
+   "feicode_mirror": "https://feicode.com/wixette/dotted-chinese-fonts",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Ddxty",
+   "upstream": "https://github.com/wixette/dotted-chinese-fonts",
+   "feicode_mirror": "https://feicode.com/wixette/dotted-chinese-fonts",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Fb16",
+   "upstream": "https://github.com/scott0107000/FashionBitmap16",
+   "feicode_mirror": "https://feicode.com/scott0107000/FashionBitmap16",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Ffs",
+   "upstream": "https://github.com/Skr-ZERO/FlyFlowerSong",
+   "feicode_mirror": "https://feicode.com/Skr-ZERO/FlyFlowerSong",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Frexsans",
+   "upstream": "https://github.com/maoken-fonts/frex-sans",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/frex-sans",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Fupx",
+   "upstream": "https://github.com/TakWolf/fusion-pixel-font",
+   "feicode_mirror": "https://feicode.com/TakWolf/fusion-pixel-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Hccqcf",
+   "upstream": "https://github.com/Warren2060/ChillCalligraphy",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillCalligraphy",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Hccqqh",
+   "upstream": "https://github.com/Warren2060/ChillCalligraphy",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillCalligraphy",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Hcszt",
+   "upstream": "https://github.com/Warren2060/ChillShouZhuo",
+   "feicode_mirror": "https://feicode.com/Warren2060/ChillShouZhuo",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Hjht",
+   "upstream": "https://github.com/GuiWonder/HeSimplFonts",
+   "feicode_mirror": "https://feicode.com/GuiWonder/HeSimplFonts",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Hxwk",
+   "upstream": "https://github.com/FWHP-Enfun/Mixed-VsWeKai",
+   "feicode_mirror": "https://feicode.com/FWHP-Enfun/Mixed-VsWeKai",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Hymc",
+   "upstream": "https://github.com/GuiWonder/HuayingMincho",
+   "feicode_mirror": "https://feicode.com/GuiWonder/HuayingMincho",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Hyzi",
+   "upstream": "https://github.com/NightFurySL2001/WD-XL-font",
+   "feicode_mirror": "https://feicode.com/NightFurySL2001/WD-XL-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Hzpy",
+   "upstream": "https://github.com/parlr/hanzi-pinyin-font",
+   "feicode_mirror": "https://feicode.com/parlr/hanzi-pinyin-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jgma",
+   "upstream": "https://github.com/FWHP-Enfun/JiGu-Ming",
+   "feicode_mirror": "https://feicode.com/FWHP-Enfun/JiGu-Ming",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jgmb",
+   "upstream": "https://github.com/FWHP-Enfun/JiGu-Ming",
+   "feicode_mirror": "https://feicode.com/FWHP-Enfun/JiGu-Ming",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jgmc",
+   "upstream": "https://github.com/FWHP-Enfun/JiGu-Ming",
+   "feicode_mirror": "https://feicode.com/FWHP-Enfun/JiGu-Ming",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jlpx",
+   "upstream": "https://github.com/TakWolf/jelly-pixel-font",
+   "feicode_mirror": "https://feicode.com/TakWolf/jelly-pixel-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jnbbh",
+   "upstream": "https://github.com/maoken-fonts/KNBobohei",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/KNBobohei",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jnmy",
+   "upstream": "https://github.com/maoken-fonts/KNMaiyuan",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/KNMaiyuan",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jnymt",
+   "upstream": "https://github.com/maoken-fonts/KNYuanmo",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/KNYuanmo",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jzkgeht",
+   "upstream": "https://github.com/amazusa/ToronoKugel",
+   "feicode_mirror": "https://feicode.com/amazusa/ToronoKugel",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Jzkgemc",
+   "upstream": "https://github.com/amazusa/ToronoKugel",
+   "feicode_mirror": "https://feicode.com/amazusa/ToronoKugel",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Kalo",
+   "upstream": "https://github.com/Kalooos0/KaloSans",
+   "feicode_mirror": "https://feicode.com/Kalooos0/KaloSans",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Kys",
+   "upstream": "https://github.com/Miiiller/Kongyuan-Sans",
+   "feicode_mirror": "https://feicode.com/Miiiller/Kongyuan-Sans",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Lftsyh",
+   "upstream": "https://github.com/ACh-K/Cubic-11",
+   "feicode_mirror": "https://feicode.com/ACh-K/Cubic-11",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Lxht",
+   "upstream": "https://github.com/feiyangjun-1/Sumr-Sans",
+   "feicode_mirror": "https://feicode.com/feiyangjun-1/Sumr-Sans",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Matc",
+   "upstream": "https://github.com/Skr-ZERO/MaokenAssortedSans-TC",
+   "feicode_mirror": "https://feicode.com/Skr-ZERO/MaokenAssortedSans-TC",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Mkkzh",
+   "upstream": "https://github.com/maoken-fonts/maoken-heavy-labourer",
+   "feicode_mirror": null,
+   "mirror_state": "skipped-too-heavy"
+  },
+  {
+   "norm": "Mkkzs",
+   "upstream": "https://github.com/maoken-fonts/maoken-heavy-labourer",
+   "feicode_mirror": null,
+   "mirror_state": "skipped-too-heavy"
+  },
+  {
+   "norm": "Mkwfys",
+   "upstream": "https://github.com/maoken-fonts/fengyasong",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/fengyasong",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Mkwxy",
+   "upstream": "https://github.com/NightFurySL2001/TangYuan-font",
+   "feicode_mirror": "https://feicode.com/NightFurySL2001/TangYuan-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Mkybkjs",
+   "upstream": "https://github.com/maoken-fonts/MaokenYingBiKaiShuJ",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/MaokenYingBiKaiShuJ",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Mspyt",
+   "upstream": "https://github.com/Pal3love/dream-han-cjk",
+   "feicode_mirror": "https://feicode.com/Pal3love/dream-han-cjk",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Mxhn",
+   "upstream": "https://github.com/max32002/max-hana",
+   "feicode_mirror": "https://feicode.com/max32002/max-hana",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Ngz",
+   "upstream": "https://github.com/scott0107000/Nightgazer-Bitmap",
+   "feicode_mirror": "https://feicode.com/scott0107000/Nightgazer-Bitmap",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Nsfx",
+   "upstream": "https://github.com/nushu-script/Nyushu",
+   "feicode_mirror": "https://feicode.com/nushu-script/Nyushu",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Nswt",
+   "upstream": "https://github.com/nushu-script/Nyushu",
+   "feicode_mirror": "https://feicode.com/nushu-script/Nyushu",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Pxzs",
+   "upstream": "https://github.com/izfsk-ium/Clear-Han-Serif",
+   "feicode_mirror": "https://feicode.com/izfsk-ium/Clear-Han-Serif",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "QRpx",
+   "upstream": "https://github.com/TakWolf/qrcode-pixel-font",
+   "feicode_mirror": "https://feicode.com/TakWolf/qrcode-pixel-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Qkhc",
+   "upstream": "https://github.com/ChiuMing-Neko/ChiuKongGothic",
+   "feicode_mirror": "https://feicode.com/ChiuMing-Neko/ChiuKongGothic",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Qkhm",
+   "upstream": "https://github.com/ChiuMing-Neko/ChiuKongGothic",
+   "feicode_mirror": "https://feicode.com/ChiuMing-Neko/ChiuKongGothic",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Qssb",
+   "upstream": "https://github.com/NoHeartPen/QiushuiShotai",
+   "feicode_mirror": "https://feicode.com/NoHeartPen/QiushuiShotai",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Qsst",
+   "upstream": "https://github.com/NoHeartPen/QiushuiShotai",
+   "feicode_mirror": "https://feicode.com/NoHeartPen/QiushuiShotai",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Qssxt",
+   "upstream": "https://github.com/jasonhandwriting/JasonHandwriting",
+   "feicode_mirror": "https://feicode.com/jasonhandwriting/JasonHandwriting",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "RtpxArcade",
+   "upstream": "https://github.com/TakWolf/retro-pixel-font",
+   "feicode_mirror": "https://feicode.com/TakWolf/retro-pixel-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "RtpxCute",
+   "upstream": "https://github.com/TakWolf/retro-pixel-font",
+   "feicode_mirror": "https://feicode.com/TakWolf/retro-pixel-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "RtpxPetty",
+   "upstream": "https://github.com/TakWolf/retro-pixel-font",
+   "feicode_mirror": "https://feicode.com/TakWolf/retro-pixel-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "RtpxThick",
+   "upstream": "https://github.com/TakWolf/retro-pixel-font",
+   "feicode_mirror": "https://feicode.com/TakWolf/retro-pixel-font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Sgdk",
+   "upstream": "https://github.com/GuiWonder/Shanggu",
+   "feicode_mirror": "https://feicode.com/GuiWonder/Shanggu",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Sght",
+   "upstream": "https://github.com/GuiWonder/Shanggu",
+   "feicode_mirror": "https://feicode.com/GuiWonder/Shanggu",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Sgyt",
+   "upstream": "https://github.com/GuiWonder/Shanggu",
+   "feicode_mirror": "https://feicode.com/GuiWonder/Shanggu",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Shp",
+   "upstream": "https://github.com/44670/SourceHanSans-Pixel",
+   "feicode_mirror": "https://feicode.com/44670/SourceHanSans-Pixel",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Slcf",
+   "upstream": "https://github.com/maoken-fonts/slidefont",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/slidefont",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Slfu",
+   "upstream": "https://github.com/maoken-fonts/slidefont",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/slidefont",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Slqh",
+   "upstream": "https://github.com/maoken-fonts/slidefont",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/slidefont",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Slxx",
+   "upstream": "https://github.com/maoken-fonts/slidefont",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/slidefont",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Sly1",
+   "upstream": "https://github.com/maoken-fonts/slidefont",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/slidefont",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Slyr",
+   "upstream": "https://github.com/maoken-fonts/slidefont",
+   "feicode_mirror": "https://feicode.com/maoken-fonts/slidefont",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Tjlt",
+   "upstream": "https://github.com/Buernia/Tiejili",
+   "feicode_mirror": "https://feicode.com/Buernia/Tiejili",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Urx",
+   "upstream": "https://github.com/scott0107000/Uranus-Pixel",
+   "feicode_mirror": "https://feicode.com/scott0107000/Uranus-Pixel",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Wqydkwmh",
+   "upstream": "https://github.com/anthonyfok/fonts-wqy-microhei",
+   "feicode_mirror": "https://feicode.com/anthonyfok/fonts-wqy-microhei",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Wqydkzh",
+   "upstream": "https://github.com/deepin-community/fonts-wqy-zenhei",
+   "feicode_mirror": "https://feicode.com/deepin-community/fonts-wqy-zenhei",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Wqys",
+   "upstream": "https://github.com/deepin-community/fonts-wqy-zenhei",
+   "feicode_mirror": "https://feicode.com/deepin-community/fonts-wqy-zenhei",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Wqywmh",
+   "upstream": "https://github.com/anthonyfok/fonts-wqy-microhei",
+   "feicode_mirror": "https://feicode.com/anthonyfok/fonts-wqy-microhei",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Wqyzh",
+   "upstream": "https://github.com/deepin-community/fonts-wqy-zenhei",
+   "feicode_mirror": "https://feicode.com/deepin-community/fonts-wqy-zenhei",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xccx",
+   "upstream": "https://github.com/Miiiller/Xiangcui-Chaoxisong",
+   "feicode_mirror": "https://feicode.com/Miiiller/Xiangcui-Chaoxisong",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xcdc",
+   "upstream": "https://github.com/Miiiller/Xiangcui-Dengcusong",
+   "feicode_mirror": "https://feicode.com/Miiiller/Xiangcui-Dengcusong",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xcdj",
+   "upstream": "https://github.com/Miiiller/Xiangcui-Dazijiti",
+   "feicode_mirror": "https://feicode.com/Miiiller/Xiangcui-Dazijiti",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xcdz2",
+   "upstream": "https://github.com/Miiiller/Xiangcui-Duanzhuangsongti",
+   "feicode_mirror": "https://feicode.com/Miiiller/Xiangcui-Duanzhuangsongti",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xcjx",
+   "upstream": "https://github.com/Miiiller/Xiangcui-Jixuesong",
+   "feicode_mirror": "https://feicode.com/Miiiller/Xiangcui-Jixuesong",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xcks",
+   "upstream": "https://github.com/Miiiller/Xiangcui-Kesong",
+   "feicode_mirror": "https://feicode.com/Miiiller/Xiangcui-Kesong",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xcld",
+   "upstream": "https://github.com/Miiiller/Xiangcui-ZeroHei",
+   "feicode_mirror": "https://feicode.com/Miiiller/Xiangcui-ZeroHei",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xczzsch",
+   "upstream": "https://github.com/Miiiller/Xiangcui-Wave-Sans",
+   "feicode_mirror": "https://feicode.com/Miiiller/Xiangcui-Wave-Sans",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xdks",
+   "upstream": "https://github.com/Skr-ZERO/Xuandong-Kaishu",
+   "feicode_mirror": "https://feicode.com/Skr-ZERO/Xuandong-Kaishu",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Xwzksgb",
+   "upstream": "https://github.com/lxgw/LxgwZhenKai",
+   "feicode_mirror": "https://feicode.com/lxgw/LxgwZhenKai",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zdht",
+   "upstream": "https://github.com/Buernia/Zhudou-Sans",
+   "feicode_mirror": "https://feicode.com/Buernia/Zhudou-Sans",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zlhc",
+   "upstream": "https://github.com/Astro-2539/ZLabs-Bitmap-HC",
+   "feicode_mirror": "https://feicode.com/Astro-2539/ZLabs-Bitmap-HC",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zljp",
+   "upstream": "https://github.com/Astro-2539/ZLabs-Bitmap-JP",
+   "feicode_mirror": "https://feicode.com/Astro-2539/ZLabs-Bitmap-JP",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zlrp12",
+   "upstream": "https://github.com/Astro-2539/ZLabs-RoundPix-12px",
+   "feicode_mirror": "https://feicode.com/Astro-2539/ZLabs-RoundPix-12px",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zlrp16",
+   "upstream": "https://github.com/Astro-2539/ZLabs-RoundPix-16px",
+   "feicode_mirror": "https://feicode.com/Astro-2539/ZLabs-RoundPix-16px",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zlx12",
+   "upstream": "https://github.com/Astro-2539/ZLabs-Pixel-12px",
+   "feicode_mirror": "https://feicode.com/Astro-2539/ZLabs-Pixel-12px",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zzft",
+   "upstream": "https://github.com/FWHP-Enfun/Star-Love-Font",
+   "feicode_mirror": "https://feicode.com/FWHP-Enfun/Star-Love-Font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zzmk",
+   "upstream": "https://github.com/FWHP-Enfun/Star-Love-Font",
+   "feicode_mirror": "https://feicode.com/FWHP-Enfun/Star-Love-Font",
+   "mirror_state": "mirrored"
+  },
+  {
+   "norm": "Zzzd",
+   "upstream": "https://github.com/FWHP-Enfun/Star-Love-Font",
+   "feicode_mirror": "https://feicode.com/FWHP-Enfun/Star-Love-Font",
+   "mirror_state": "mirrored"
+  }
+ ]
+}
