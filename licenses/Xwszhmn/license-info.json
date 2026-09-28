@@ -2,7 +2,7 @@
   "normalizedName": "Xwszhmn",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "",
+  "licenseUrl": "https://github.com/lxgw/LxgwFasmartGothic",
   "licenseFile": "licenses/Xwszhmn/LICENSE",
   "commercial": true,
   "modification": true,
@@ -15,5 +15,5 @@
   "verified": true,
   "verifiedAt": "2026-09-26",
   "verifiedBy": "上游仓原文/家族同授权",
-  "source": "上游仓"
+  "source": "upstream lxgw/LxgwFasmartGothic（2026-09-28 补记具体仓，原记「上游仓」）"
 }

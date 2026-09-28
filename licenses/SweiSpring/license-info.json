@@ -2,7 +2,7 @@
   "normalizedName": "SweiSpring",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "",
+  "licenseUrl": "https://github.com/max32002/SweiSpring-of-Spring",
   "licenseFile": "licenses/SweiSpring/LICENSE",
   "commercial": true,
   "modification": true,
@@ -15,5 +15,5 @@
   "verified": true,
   "verifiedAt": "2026-09-26",
   "verifiedBy": "上游仓/官方原文",
-  "source": "上游仓"
+  "source": "upstream max32002/SweiSpring-of-Spring（2026-09-28 补记具体仓，原记「上游仓」）"
 }

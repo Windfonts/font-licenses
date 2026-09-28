@@ -2,7 +2,7 @@
   "normalizedName": "YShiNewHei",
   "type": "免费商用",
   "spdx": "IPA-1.0",
-  "licenseUrl": "https://raw.githubusercontent.com/Steve-Yuu/YShi-NewHei/main/LICENSE.txt",
+  "licenseUrl": "https://github.com/Steve-Yuu/YShi-NewHei",
   "licenseFile": "licenses/YShiNewHei/LICENSE",
   "commercial": true,
   "modification": true,
@@ -15,5 +15,5 @@
   "verified": true,
   "verifiedAt": "2026-09-28",
   "verifiedBy": "上游仓原文",
-  "source": "上游仓"
+  "source": "upstream Steve-Yuu/YShi-NewHei（2026-09-28 补记具体仓，原记「上游仓」）"
 }

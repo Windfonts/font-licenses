@@ -2,7 +2,7 @@
   "normalizedName": "YShiWritten",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://raw.githubusercontent.com/Steve-Yuu/YShi-Written/main/OFL.txt",
+  "licenseUrl": "https://github.com/Steve-Yuu/YShi-Written",
   "licenseFile": "licenses/YShiWritten/LICENSE",
   "commercial": true,
   "modification": true,
@@ -15,5 +15,5 @@
   "verified": true,
   "verifiedAt": "2026-09-28",
   "verifiedBy": "上游仓原文",
-  "source": "上游仓"
+  "source": "upstream Steve-Yuu/YShi-Written（2026-09-28 补记具体仓，原记「上游仓」）"
 }
