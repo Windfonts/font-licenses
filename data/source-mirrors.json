@@ -622,8 +622,8 @@
   },
   {
    "norm": "RocknRoll",
-   "upstream": "https://github.com/justfont/RocknRoll-One",
-   "feicode_mirror": "https://feicode.com/justfont/RocknRoll-One",
+   "upstream": "https://github.com/fontworks-fonts/RocknRoll",
+   "feicode_mirror": "https://feicode.com/fontworks-fonts/RocknRoll",
    "mirror_state": "mirrored"
   },
   {
@@ -658,8 +658,8 @@
   },
   {
    "norm": "SweiSpring",
-   "upstream": "https://github.com/max32002/SweiSpring-of-Spring",
-   "feicode_mirror": "https://feicode.com/max32002/SweiSpring-of-Spring",
+   "upstream": "https://github.com/max32002/swei-spring",
+   "feicode_mirror": "https://feicode.com/max32002/swei-spring",
    "mirror_state": "mirrored"
   },
   {
@@ -718,26 +718,26 @@
   },
   {
    "norm": "Xwxxhcode",
-   "upstream": "https://github.com/lxgw/LxgwNewClearBlack",
-   "feicode_mirror": "https://feicode.com/lxgw/LxgwNewClearBlack",
+   "upstream": "https://github.com/lxgw/LxgwNeoXiHei",
+   "feicode_mirror": "https://feicode.com/lxgw/LxgwNeoXiHei",
    "mirror_state": "mirrored"
   },
   {
    "norm": "Xwxxhplus",
-   "upstream": "https://github.com/lxgw/LxgwNewClearBlack",
-   "feicode_mirror": "https://feicode.com/lxgw/LxgwNewClearBlack",
+   "upstream": "https://github.com/lxgw/LxgwNeoXiHei",
+   "feicode_mirror": "https://feicode.com/lxgw/LxgwNeoXiHei",
    "mirror_state": "mirrored"
   },
   {
    "norm": "Xwxxhscreen",
-   "upstream": "https://github.com/lxgw/LxgwNewClearBlack",
-   "feicode_mirror": "https://feicode.com/lxgw/LxgwNewClearBlack",
+   "upstream": "https://github.com/lxgw/LxgwNeoXiHei",
+   "feicode_mirror": "https://feicode.com/lxgw/LxgwNeoXiHei",
    "mirror_state": "mirrored"
   },
   {
    "norm": "Xwxxhscreenfull",
-   "upstream": "https://github.com/lxgw/LxgwNewClearBlack",
-   "feicode_mirror": "https://feicode.com/lxgw/LxgwNewClearBlack",
+   "upstream": "https://github.com/lxgw/LxgwNeoXiHei",
+   "feicode_mirror": "https://feicode.com/lxgw/LxgwNeoXiHei",
    "mirror_state": "mirrored"
   },
   {

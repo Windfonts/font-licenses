@@ -54,3 +54,11 @@ manifest 记来源/版本/sha256/许可，可见级别 public/private 逐款定�
 - 转公开流程：核对 license-info.json 的 distribution 声明 → 该款目录迁至 font-sources + 两仓 manifest 的 visibility/pending_review 同步改。
 - 缺源 39 款（开源 37 + 免商 2）待向厂商/官网收集后补录。
 - 新款入库联动：MIRROR-SOP §1 判「有上游仓走镜像」，无仓走本节收录（按许可定仓），更新 manifest。
+
+## 7. P3 缺源收口补充（2026-09-28）
+
+- 39 款缺源的真因多是 license-info source 字段记「上游仓」没记 URL——**归档时必须写具体 org/repo**。
+- gh 搜索到的仓名必须 `gh api repos/<o>/<r>` 二次验证（限流时误报）；本批三例：RocknRoll-One→fontworks-fonts/RocknRoll、新晰黑→lxgw/LxgwNeoXiHei、小赖→lxgw/kose-font（XiaolaiSC 是发行名）。
+- 狮尾系真名全小写：swei-spring（非 SweiSpring-of-Spring）。
+- 仓耳官网完整字体需注册下载，CSS @font-face 里只有预览子集（21 字形）——归档无价值，标 restricted-login 待人工。
+- 巡检已挂 launchd：`com.feibisi.wenfeng-mirror-health`（每周一 09:30，告警投 ~/office/joy/outbox）。
