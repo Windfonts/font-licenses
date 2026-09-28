@@ -40,3 +40,17 @@ for org in $(ls 数据来源见 source-mirrors.json 的组织集合); do :; done
 
 方正系等官网 zip/厂商声明款：私有仓 `Windfonts/font-sources-collected`（未建，等 schema 拍板），
 manifest 记来源/版本/sha256/许可，可见级别 public/private 逐款定。
+
+## 6. 收录线（2026-09-28 落地）
+
+两仓已建，收录无 GitHub 上游的款（镜像线之外）：
+
+| 仓 | 可见 | 内容 | 当前 |
+|---|---|---|---|
+| `Windfonts/font-sources` | public | 开源许可款源文件 | 252 款 |
+| `Windfonts/font-sources-collected` | private | 免费商用/个人免费/待核实款 | 72 款（pending_review=true）|
+
+- 每款一目录：源文件 + `manifest.json`（norm/许可/visibility/pending_review/collected_at/license_source/license_verified/upstream_hint/逐文件 sha256）。
+- 转公开流程：核对 license-info.json 的 distribution 声明 → 该款目录迁至 font-sources + 两仓 manifest 的 visibility/pending_review 同步改。
+- 缺源 39 款（开源 37 + 免商 2）待向厂商/官网收集后补录。
+- 新款入库联动：MIRROR-SOP §1 判「有上游仓走镜像」，无仓走本节收录（按许可定仓），更新 manifest。
