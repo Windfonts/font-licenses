@@ -1,0 +1,19 @@
+{
+  "normalizedName": "Mlyu",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://cdn.jsdelivr.net/gh/max32002/maruko-gothic@master/SIL_Open_Font_License_1.1.txt",
+  "licenseFile": "licenses/Mlyu/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "notes": "授权原文自上游仓归档（2026-09-28 oss-gh 批次）。repo=max32002/maruko-gothic",
+  "verified": true,
+  "verifiedAt": "2026-09-28",
+  "verifiedBy": "上游仓原文",
+  "source": "上游仓"
+}

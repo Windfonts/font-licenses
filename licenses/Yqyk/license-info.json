@@ -1,0 +1,19 @@
+{
+  "normalizedName": "Yqyk",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://cdn.jsdmirror.com/gh/ItMarki/jyunsaikaai@main/README.md#readme",
+  "licenseFile": "licenses/Yqyk/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "notes": "授权原文自上游仓归档（2026-09-28 oss-gh 批次）。repo=ItMarki/jyunsaikaai",
+  "verified": true,
+  "verifiedAt": "2026-09-28",
+  "verifiedBy": "上游仓原文",
+  "source": "上游仓"
+}
