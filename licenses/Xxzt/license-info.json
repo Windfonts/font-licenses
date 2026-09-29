@@ -1,0 +1,21 @@
+{
+  "normalizedName": "Xxzt",
+  "type": "开源商用",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/kaonashi-tyc/Zi-XuanZongTi/blob/main/LICENSE",
+  "licenseFile": "licenses/Xxzt/LICENSE",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": true,
+  "purchaseUrl": null,
+  "price": null,
+  "notes": "仓 LICENSE 为 SIL OFL 1.1，版权行 Yuchen Tian，无 Reserved Font Name。源 OTF name 表仍带 Adobe Source RFN 行，产品名玄宗体。",
+  "verified": true,
+  "verifiedAt": "2026-09-29",
+  "verifiedBy": "[Grok]",
+  "source": "GitHub kaonashi-tyc/Zi-XuanZongTi LICENSE"
+}
