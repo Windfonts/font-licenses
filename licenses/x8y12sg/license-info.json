@@ -1,0 +1,29 @@
+{
+  "normalizedName": "x8y12sg",
+  "type": "免费商用",
+  "licenseName": "ザ・ストロングゲーマー授权协议",
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://hicchicc.github.io/00ff/",
+  "textSha256": null,
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "2026-10-13 读 00ff 页面条款。允许商用、嵌入、改作、再分发；不可单卖字体；版权仍归 hicc。OFL 再核未做。verified false。",
+  "verified": false,
+  "verifiedAt": null
+}

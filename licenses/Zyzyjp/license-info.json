@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Zyzyjp",
+  "type": "免费商用",
+  "licenseName": null,
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/zyzyjp/license/original.txt",
+  "textSha256": "bc78145e74e47e65c70e03f6e0714c58d80a1697d8a6d0db782df5dd138632f0",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names; shop licenseName empty or 档位口令, left empty",
+  "verified": false,
+  "verifiedAt": null
+}

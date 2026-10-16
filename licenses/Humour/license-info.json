@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Humour",
+  "type": "免费商用",
+  "licenseName": null,
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/humour/license/original.txt",
+  "textSha256": "aa7b2232eaad66ef680ac3dce51f49d2053553dd5f493dd6ea5a1e66609fb46c",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names; shop licenseName empty or 档位口令, left empty",
+  "verified": false,
+  "verifiedAt": null
+}

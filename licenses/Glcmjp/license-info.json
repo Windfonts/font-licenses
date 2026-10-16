@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Glcmjp",
+  "type": "开源商用",
+  "licenseName": "OFL",
+  "spdx": "OFL-1.1",
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/glcmjp/license/original.txt",
+  "textSha256": "54b58f420217954f98661403df094e9c57fd29ad47ae711d2c6106fa2bbf7cac",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

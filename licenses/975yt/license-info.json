@@ -1,0 +1,29 @@
+{
+  "normalizedName": "975yt",
+  "type": "免费商用",
+  "licenseName": "975 圆体授权协议",
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/975yt/license/original.txt",
+  "textSha256": "e9c4c62582807c250061e07ede99f4c0c7e1a7d536e621ec68d049f1f7ee0d81",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

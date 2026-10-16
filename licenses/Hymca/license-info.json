@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Hymca",
+  "type": "免费商用",
+  "licenseName": "花园明朝 A授权协议",
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/hymca/license/original.txt",
+  "textSha256": "3983a1b74d18bc5e9fe733224838af1045df28a68d677432462a5a85da1b689e",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Jlyhmht",
+  "type": "免费商用",
+  "licenseName": "方正×吉利 吉利银河美好体免费字授权（商业发布）",
+  "spdx": null,
+  "textState": "missing",
+  "licenseUrl": null,
+  "textSha256": null,
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": true,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names; mustOfficial: take original from foundry site",
+  "verified": false,
+  "verifiedAt": null
+}

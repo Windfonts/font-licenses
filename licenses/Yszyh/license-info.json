@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Yszyh",
+  "type": "开源商用",
+  "licenseName": "OFL",
+  "spdx": "OFL-1.1",
+  "textState": "missing",
+  "licenseUrl": null,
+  "textSha256": null,
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": false,
+  "shareAlike": false,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

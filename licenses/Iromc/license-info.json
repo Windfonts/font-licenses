@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Iromc",
+  "type": "免费商用",
+  "licenseName": null,
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/iromc/license/original.txt",
+  "textSha256": "a338f2d4de2730f837161c69c109f2c0dabd3669da0f25d59762b7de097f33a7",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names; shop licenseName empty or 档位口令, left empty",
+  "verified": false,
+  "verifiedAt": null
+}

@@ -1,0 +1,29 @@
+{
+  "normalizedName": "851ckrywk",
+  "type": "免费商用",
+  "licenseName": null,
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/851ckrywk/license/original.txt",
+  "textSha256": "9a1d37e889b523430123625a1a40f15ff472ae7cb18a88465f8c89ea51ee80b2",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names; shop licenseName empty or 档位口令, left empty",
+  "verified": false,
+  "verifiedAt": null
+}

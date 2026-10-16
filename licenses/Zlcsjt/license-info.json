@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Zlcsjt",
+  "type": "免费商用",
+  "licenseName": "Apache License 2.0",
+  "spdx": "Apache-2.0",
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/zlcsjt/license/original.txt",
+  "textSha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+  "commercial": true,
+  "modification": true,
+  "distribution": true,
+  "embedding": true,
+  "webUse": true,
+  "attribution": true,
+  "shareAlike": false,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

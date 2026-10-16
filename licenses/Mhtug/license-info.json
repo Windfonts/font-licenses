@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Mhtug",
+  "type": "免费商用",
+  "licenseName": "梅字体许可",
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/mhtug/license/original.txt",
+  "textSha256": "8487a3c5bfe66858f269d377c4f5473fa96cab99d08bea501e9a95e48caf30c3",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

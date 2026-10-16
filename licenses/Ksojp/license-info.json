@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Ksojp",
+  "type": "开源商用",
+  "licenseName": "bsd",
+  "spdx": "BSD-3-Clause",
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/ksojp/license/original.txt",
+  "textSha256": "06911c4187807499c44fd36897df4b4ad56d606b3e2d941847f990b35bfcc622",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

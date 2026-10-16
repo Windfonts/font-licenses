@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Astpywkk",
+  "type": "免费商用",
+  "licenseName": "台湾省开放政府数据授权条款 1.0",
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/astpywkk/license/original.txt",
+  "textSha256": "6c0b5f5ff2ca240eaba15d03c49060b59dce7fc67246a875c0d21ba210e2556b",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

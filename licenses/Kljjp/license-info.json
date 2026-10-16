@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Kljjp",
+  "type": "开源商用",
+  "licenseName": "bsd",
+  "spdx": "BSD-3-Clause",
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/kljjp/license/original.txt",
+  "textSha256": "0655d1ab6f4ce6c7c2d5bb088b7f41c87c162a636da9a86dd23f83589ce92f6f",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

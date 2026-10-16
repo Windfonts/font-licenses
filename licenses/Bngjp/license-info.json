@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Bngjp",
+  "type": "免费商用",
+  "licenseName": "IPA Font License Agreement v1.0",
+  "spdx": "IPA-1.0",
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/bngjp/license/original.txt",
+  "textSha256": "4c84dd528ec3044638ec346fc1ee27cd1eb95dfc04cbc6a881b3ca7a7f517e54",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

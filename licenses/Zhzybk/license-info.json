@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Zhzybk",
+  "type": "开源商用",
+  "licenseName": "汉字 CC-BY-4.0 + 其余 OFL-1.1",
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/zhzybk/license/original.txt",
+  "textSha256": "7629bf8068689683a2b1f21bdc993bfe6e3df503db37e6a3ab68717c4b77f7d1",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names; shop 双许可; single SPDX not invented",
+  "verified": false,
+  "verifiedAt": null
+}

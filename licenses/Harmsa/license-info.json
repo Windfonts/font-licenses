@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Harmsa",
+  "type": "免费商用",
+  "licenseName": "HarmonyOS Sans Fonts License Agreement",
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/harmsa/license/original.txt",
+  "textSha256": "327e0147d4a3ca2d89e81abce45b210576b0f9fe2b29d900f64b58039f12a102",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": true,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names; mustOfficial: take original from foundry site",
+  "verified": false,
+  "verifiedAt": null
+}

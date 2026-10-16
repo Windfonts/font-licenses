@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Cinjp",
+  "type": "免费商用",
+  "licenseName": null,
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/cinjp/license/original.txt",
+  "textSha256": "9c8c826957802aef3b29294809ac261199017d6927ad94d701f881c44b6d804f",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names; shop licenseName empty or 档位口令, left empty",
+  "verified": false,
+  "verifiedAt": null
+}

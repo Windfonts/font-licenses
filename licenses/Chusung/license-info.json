@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Chusung",
+  "type": "免费商用",
+  "licenseName": "CC-BY-SA-4.0",
+  "spdx": "CC-BY-SA-4.0",
+  "textState": "missing",
+  "licenseUrl": null,
+  "textSha256": null,
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}

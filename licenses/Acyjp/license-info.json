@@ -1,0 +1,29 @@
+{
+  "normalizedName": "Acyjp",
+  "type": "免费商用",
+  "licenseName": "Acy授权协议",
+  "spdx": null,
+  "textState": "pointer",
+  "licenseUrl": "https://cn.windfonts.com/fonts-packages/acyjp/license/original.txt",
+  "textSha256": "23a7ba9d7455e7581336224a1e09eb62692986ad5567a8f0b0c6ddbe0af091b1",
+  "commercial": true,
+  "modification": null,
+  "distribution": null,
+  "embedding": null,
+  "webUse": null,
+  "attribution": null,
+  "shareAlike": null,
+  "rfn": null,
+  "mustOfficial": false,
+  "uses": {
+    "logo": null,
+    "trademark": null,
+    "video": null,
+    "doujin": null,
+    "print": null,
+    "appEmbed": null
+  },
+  "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
+  "verified": false,
+  "verifiedAt": null
+}
