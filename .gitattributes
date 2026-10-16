@@ -1,0 +1,2 @@
+# 许可原文必须原样保存（sha256 要能复现），不做换行转换
+licenses/*/LICENSE* -text
