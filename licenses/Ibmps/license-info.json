@@ -2,7 +2,7 @@
   "normalizedName": "Ibmps",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://raw.githubusercontent.com/IBM/plex/master/LICENSE.txt",
+  "licenseUrl": "https://raw.githubusercontent.com/IBM/plex/2d89ed6610c5e67b148f7bce6768e65c4abef979/LICENSE.txt",
   "licenseFile": "licenses/Ibmps/LICENSE",
   "commercial": true,
   "modification": true,
@@ -13,9 +13,10 @@
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
-  "notes": "许可原文来自上游 OFL-1.1：https://raw.githubusercontent.com/IBM/plex/master/LICENSE.txt",
+  "notes": "许可原文：IBM/plex@2d89ed6 LICENSE.txt（固定 commit，替换 master 链接；2026-10-17 Foundry 核对）。版权行按原文：Copyright © 2017 IBM Corp. with Reserved Font Name \"Plex\"",
   "verified": true,
   "verifiedAt": "2026-09-26",
   "verifiedBy": "[CC]",
-  "source": "IBM Plex Sans 随包 OFL 原文，RFN=Plex"
+  "source": "IBM Plex Sans 随包 OFL 原文，RFN=Plex",
+  "textSha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
 }

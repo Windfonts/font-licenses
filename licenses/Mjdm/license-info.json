@@ -2,7 +2,7 @@
   "normalizedName": "Mjdm",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://cdn.jsdmirror.com/gh/ItMarki/jyunsaikaai@main/README.md#readme",
+  "licenseUrl": "https://github.com/ItMarki/jyunsaikaai/blob/9e35c8713517762c36c84cdb5a9a9a0bdfec57b8/README.md#L46-L59",
   "licenseFile": "licenses/Mjdm/LICENSE",
   "commercial": true,
   "modification": true,
@@ -11,9 +11,10 @@
   "webUse": true,
   "attribution": false,
   "shareAlike": false,
-  "notes": "授权原文自上游仓归档（2026-09-28 oss-gh 批次）。repo=ItMarki/jyunsaikaai",
+  "notes": "上游无单独许可文件。原文为 ItMarki/jyunsaikaai@9e35c87 README.md 第 46–59 行「授權許可」段（OFL 1.1，衍生自 Fontworks Klee One），LICENSE 为该段原样摘录；README 全文 sha256 ee4f567a6dd4ebd4c626f232b99e737d0e1ed24c0db232cc05cc0b334c144136。上游未给版权行，不另写。2026-10-17 Foundry 核对。",
   "verified": true,
   "verifiedAt": "2026-09-28",
   "verifiedBy": "上游仓原文",
-  "source": "上游仓"
+  "source": "上游仓",
+  "textSha256": "55923307621081347ba814e8f8bfac61c1d9e7a228e1df474272f406fdc5883b"
 }

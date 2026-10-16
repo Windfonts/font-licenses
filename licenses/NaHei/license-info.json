@@ -2,7 +2,7 @@
   "normalizedName": "NaHei",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://github.com/Steve-Yuu/nahei",
+  "licenseUrl": "https://raw.githubusercontent.com/Steve-Yuu/nahei/6ea97806ba944bf1c1d4c98fa30cab2a89edca0c/OFL.txt",
   "licenseFile": "licenses/NaHei/LICENSE",
   "commercial": true,
   "modification": true,
@@ -11,9 +11,10 @@
   "webUse": true,
   "attribution": false,
   "shareAlike": false,
-  "notes": "授权原文自上游仓归档（2026-09-28 oss-gh 批次）。repo=Steve-Yuu/nahei",
+  "notes": "许可原文：Steve-Yuu/nahei@6ea9780 OFL.txt（固定 commit）；版权行 Copyright 2025-2026 The nahei Project Authors。旧 LICENSE 误抄芫荽 Iansui 版权行，2026-10-17 按 Foundry 核对替换。与 cn.windfonts.com original.txt 一致。",
   "verified": true,
   "verifiedAt": "2026-09-28",
   "verifiedBy": "上游仓原文",
-  "source": "upstream Steve-Yuu/nahei（2026-09-28 补记具体仓，原记「上游仓」）"
+  "source": "upstream Steve-Yuu/nahei（2026-09-28 补记具体仓，原记「上游仓」）",
+  "textSha256": "dfa5f0725803fdf90d2d962c816c8ec7e9547a8fdb9fe51d5f3eab56012b6b9d"
 }

@@ -2,7 +2,7 @@
   "normalizedName": "Btot",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://raw.githubusercontent.com/google/fonts/main/ofl/pottaone/OFL.txt",
+  "licenseUrl": "https://raw.githubusercontent.com/google/fonts/9a4e0fa082388b270a531a794a00845291230db5/ofl/pottaone/OFL.txt",
   "licenseFile": "licenses/Btot/LICENSE",
   "commercial": true,
   "modification": true,
@@ -13,9 +13,10 @@
   "shareAlike": false,
   "purchaseUrl": null,
   "price": null,
-  "notes": "许可原文来自上游 OFL-1.1：https://raw.githubusercontent.com/google/fonts/main/ofl/pottaone/OFL.txt",
+  "notes": "许可原文：google/fonts@9a4e0fa ofl/pottaone/OFL.txt（固定 commit，2026-10-17 Foundry 核对；LICENSE 为该文件原样）。",
   "verified": true,
   "verifiedAt": "2026-09-26",
   "verifiedBy": "[CC]",
-  "source": "Potta Project（go108go/Potta）随包 OFL 原文"
+  "source": "Potta Project（go108go/Potta）随包 OFL 原文",
+  "textSha256": "fe55933bcfad354914050fe0e7c879bd666a623f1e363a651198ac40c271cd26"
 }
