@@ -2,7 +2,7 @@
   "normalizedName": "Mjdz",
   "type": "开源商用",
   "spdx": "OFL-1.1",
-  "licenseUrl": "https://github.com/ItMarki/jyunsaikaai/blob/9e35c8713517762c36c84cdb5a9a9a0bdfec57b8/README.md#L46-L59",
+  "licenseUrl": "https://raw.githubusercontent.com/ItMarki/MisekiBitmap/64b102ca30abe4de0733d9e80c0336a148297a2e/LICENSE",
   "licenseFile": "licenses/Mjdz/LICENSE",
   "commercial": true,
   "modification": true,
@@ -11,10 +11,10 @@
   "webUse": true,
   "attribution": false,
   "shareAlike": false,
-  "notes": "上游无单独许可文件。原文为 ItMarki/jyunsaikaai@9e35c87 README.md 第 46–59 行「授權許可」段（OFL 1.1，衍生自 Fontworks Klee One），LICENSE 为该段原样摘录；README 全文 sha256 ee4f567a6dd4ebd4c626f232b99e737d0e1ed24c0db232cc05cc0b334c144136。上游未给版权行，不另写。2026-10-17 Foundry 核对。",
+  "notes": "美绩点阵体（MisekiBitmap，店面 mjdzt）。上游 ItMarki/MisekiBitmap@64b102c fonts/MisekiBitmap.ttf；许可原文：同 commit LICENSE（OFL-1.1，Copyright (c) 2023-2024 Mark Li），LICENSE 为该文件原样字节。2026-10-28 Foundry 核对、白泽复核（字名、cmap 15622 与 cn.windfonts.com 现网一致）；更正此前误记的上游 ItMarki/jyunsaikaai（芫茜雅楷）。",
   "verified": true,
-  "verifiedAt": "2026-09-28",
+  "verifiedAt": "2026-10-28",
   "verifiedBy": "上游仓原文",
-  "source": "上游仓",
-  "textSha256": "55923307621081347ba814e8f8bfac61c1d9e7a228e1df474272f406fdc5883b"
+  "source": "https://github.com/ItMarki/MisekiBitmap",
+  "textSha256": "e855b45b384d37c9a778119271bd9c32706e3f1f9f278de0ad47347606eea846"
 }
