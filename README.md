@@ -13,7 +13,7 @@ schemas/
   license-info.schema.json   # 字段真源
 ```
 
-目录名与 vault `normalizedName` 一致：历史条目是 CamelCase（`Yymcpgwm`），2026-10-07 迁移后的新条目是店面短码小写（`851ckrdzyk`），两套并存、未做 alias 标注。仓内没有 `index.json`；全量清单以各目录 `license-info.json` 为准。
+目录名是历史 `normalizedName`：绝大多数是 CamelCase 旧值（`Ibmps`、`Xwbright`），2026-10-07 短码迁移后的新条目是店面短码小写（`851ckrdzyk`）。新条目直接用 canonical 小写 normalized 建目录。旧目录到 canonical 的对照在 `data/dir-aliases.json`（764 条：`case` 仅大小写差异、`rename` 是短码迁移改名；`unmatched` 54 条不在当前目录，按归档处理）。仓内没有 `index.json`；全量清单以各目录 `license-info.json` 为准。
 
 ## license-info.json 字段
 

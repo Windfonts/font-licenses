@@ -1,0 +1,3119 @@
+{
+ "canonicalSource": "fonts-front data/fonts.json normalized 字段",
+ "dirs": {
+  "AbbrFes": {
+   "canonical": "jysht",
+   "kind": "rename"
+  },
+  "Acyjp": {
+   "canonical": "acyjp",
+   "kind": "case"
+  },
+  "Albbpht": {
+   "canonical": "albbpht",
+   "kind": "case"
+  },
+  "Albjp": {
+   "canonical": "albjp",
+   "kind": "case"
+  },
+  "Alhyznht": {
+   "canonical": "alhyznht",
+   "kind": "case"
+  },
+  "Aljkt": {
+   "canonical": "aljkt",
+   "kind": "case"
+  },
+  "AllPun": {
+   "canonical": "xlft",
+   "kind": "rename"
+  },
+  "Almmdfdk": {
+   "canonical": "almmdfdk",
+   "kind": "case"
+  },
+  "Almmdlt": {
+   "canonical": "almmdlt",
+   "kind": "case"
+  },
+  "Almmsht": {
+   "canonical": "almmsht",
+   "kind": "case"
+  },
+  "Arkp": {
+   "canonical": "fzxs10",
+   "kind": "rename"
+  },
+  "Astbspy": {
+   "canonical": "astbspy",
+   "kind": "case"
+  },
+  "Astbszy": {
+   "canonical": "astbszy",
+   "kind": "case"
+  },
+  "Astjp": {
+   "canonical": "astjp",
+   "kind": "case"
+  },
+  "Astkx": {
+   "canonical": "astkx",
+   "kind": "case"
+  },
+  "Astpykk": {
+   "canonical": "astpykk",
+   "kind": "case"
+  },
+  "Astpywkk": {
+   "canonical": "astpywkk",
+   "kind": "case"
+  },
+  "Astpywwk": {
+   "canonical": "astpywwk",
+   "kind": "case"
+  },
+  "Astqs": {
+   "canonical": "astqs",
+   "kind": "case"
+  },
+  "Astzykk": {
+   "canonical": "astzykk",
+   "kind": "case"
+  },
+  "Astzykks": {
+   "canonical": "astzykks",
+   "kind": "case"
+  },
+  "Astzywkk": {
+   "canonical": "astzywkk",
+   "kind": "case"
+  },
+  "Astzywkks": {
+   "canonical": "astzywkks",
+   "kind": "case"
+  },
+  "Awrjp": {
+   "canonical": "awrjp",
+   "kind": "case"
+  },
+  "Azbzzwzt": {
+   "canonical": "dshbt",
+   "kind": "rename"
+  },
+  "Bb7": {
+   "canonical": "jpdzt7x7",
+   "kind": "rename"
+  },
+  "Bb9": {
+   "canonical": "jpdzt9x9",
+   "kind": "rename"
+  },
+  "Bdswt16": {
+   "canonical": "bdswt16",
+   "kind": "case"
+  },
+  "Bestten": {
+   "canonical": "bestten",
+   "kind": "case"
+  },
+  "Bhtp2": {
+   "canonical": "bhtp2",
+   "kind": "case"
+  },
+  "Bhtpgt": {
+   "canonical": "bhtpgt",
+   "kind": "case"
+  },
+  "Bizudg": {
+   "canonical": "bizudg",
+   "kind": "case"
+  },
+  "Bizudm": {
+   "canonical": "bizudm",
+   "kind": "case"
+  },
+  "Bizudpg": {
+   "canonical": "bizudpg",
+   "kind": "case"
+  },
+  "Bizudpm": {
+   "canonical": "bizudpm",
+   "kind": "case"
+  },
+  "Bkd": {
+   "canonical": "bkdft",
+   "kind": "rename"
+  },
+  "Bmfs": {
+   "canonical": "bmfs",
+   "kind": "case"
+  },
+  "Bngjp": {
+   "canonical": "bngjp",
+   "kind": "case"
+  },
+  "Bspsc": {
+   "canonical": "htmzt",
+   "kind": "rename"
+  },
+  "Btot": {
+   "canonical": "btot",
+   "kind": "case"
+  },
+  "Btxbt": {
+   "canonical": "btxbt",
+   "kind": "case"
+  },
+  "Bzgjp": {
+   "canonical": "bzgjp",
+   "kind": "case"
+  },
+  "C2003": {
+   "canonical": "c2003",
+   "kind": "case"
+  },
+  "Cbds": {
+   "canonical": "zbds16",
+   "kind": "rename"
+  },
+  "Cdmc": {
+   "canonical": "cdmc",
+   "kind": "case"
+  },
+  "Cexwz": {
+   "canonical": "cexwz",
+   "kind": "case"
+  },
+  "Cezkzdbs": {
+   "canonical": "cezkzdbs",
+   "kind": "case"
+  },
+  "Chuanqu": {
+   "canonical": "cqcqt",
+   "kind": "rename"
+  },
+  "Chusung": {
+   "canonical": "chusung",
+   "kind": "case"
+  },
+  "Cinjp": {
+   "canonical": "cinjp",
+   "kind": "case"
+  },
+  "Cjkfqlt": {
+   "canonical": "cjkfqlt",
+   "kind": "case"
+  },
+  "Cjxtjp": {
+   "canonical": "cjxtjp",
+   "kind": "case"
+  },
+  "Ckbf": {
+   "canonical": "pwdhqt",
+   "kind": "rename"
+  },
+  "Cktjgt": {
+   "canonical": "cktjgt",
+   "kind": "case"
+  },
+  "Cldin": {
+   "canonical": "hcdh",
+   "kind": "rename"
+  },
+  "Clg": {
+   "canonical": "hcgh",
+   "kind": "rename"
+  },
+  "Clhfs": {
+   "canonical": "hchzfs",
+   "kind": "rename"
+  },
+  "Clrv3": {
+   "canonical": "clrv3",
+   "kind": "case"
+  },
+  "Clsxt": {
+   "canonical": "clsxt",
+   "kind": "case"
+  },
+  "Cltan": {
+   "canonical": "hcth",
+   "kind": "rename"
+  },
+  "Clv3jp": {
+   "canonical": "clv3jp",
+   "kind": "case"
+  },
+  "Cormc": {
+   "canonical": "cormc",
+   "kind": "case"
+  },
+  "Cpfjp": {
+   "canonical": "cpfjp",
+   "kind": "case"
+  },
+  "Cqscbbt": {
+   "canonical": "yfzkzqscbbt",
+   "kind": "rename"
+  },
+  "Cxmc": {
+   "canonical": "cxmct",
+   "kind": "rename"
+  },
+  "Cylyt": {
+   "canonical": "cylytt",
+   "kind": "rename"
+  },
+  "Cyrjp": {
+   "canonical": "cyrjp",
+   "kind": "case"
+  },
+  "Cyv3jp": {
+   "canonical": "cyv3jp",
+   "kind": "case"
+  },
+  "Dcx8y12": {
+   "canonical": "dcx8y12",
+   "kind": "case"
+  },
+  "Ddjbt": {
+   "canonical": "ddjbt",
+   "kind": "case"
+  },
+  "Ddxstfx": {
+   "canonical": "dzxsstcgt",
+   "kind": "rename"
+  },
+  "Ddxstlx": {
+   "canonical": "ddxsstlx",
+   "kind": "rename"
+  },
+  "Ddxstyx": {
+   "canonical": "ddxstyx",
+   "kind": "case"
+  },
+  "Dela": {
+   "canonical": "mtht",
+   "kind": "rename"
+  },
+  "Dlkjt": {
+   "canonical": "dlkjt",
+   "kind": "case"
+  },
+  "Dlzht": {
+   "canonical": "dlzht",
+   "kind": "case"
+  },
+  "Dnmjp": {
+   "canonical": "dnmjp",
+   "kind": "case"
+  },
+  "Dotgothic": {
+   "canonical": "dg16jp",
+   "kind": "rename"
+  },
+  "DottedSongtiCircleRegular": {
+   "canonical": "ddxstyx",
+   "kind": "rename"
+  },
+  "Dqhkst": {
+   "canonical": "dqhkst",
+   "kind": "case"
+  },
+  "Dyh": {
+   "canonical": "dyh",
+   "kind": "case"
+  },
+  "Dymht": {
+   "canonical": "dymht",
+   "kind": "case"
+  },
+  "Dyzgt": {
+   "canonical": "dyzgt",
+   "kind": "case"
+  },
+  "Escjp": {
+   "canonical": "escjp",
+   "kind": "case"
+  },
+  "Expjp": {
+   "canonical": "expjp",
+   "kind": "case"
+  },
+  "Fb16": {
+   "canonical": "lxdzt16",
+   "kind": "rename"
+  },
+  "Fcgtss": {
+   "canonical": "fcgtss",
+   "kind": "case"
+  },
+  "Ffs": {
+   "canonical": "fhst",
+   "kind": "rename"
+  },
+  "Fhxs12": {
+   "canonical": "fhxs12",
+   "kind": "case"
+  },
+  "Firjp": {
+   "canonical": "firjp",
+   "kind": "case"
+  },
+  "Fkzl": {
+   "canonical": "jzzt",
+   "kind": "rename"
+  },
+  "Fmthei": {
+   "canonical": "fmht",
+   "kind": "rename"
+  },
+  "Fmtming": {
+   "canonical": "fmmt",
+   "kind": "rename"
+  },
+  "Fonsung": {
+   "canonical": "fonsung",
+   "kind": "case"
+  },
+  "Frexsans": {
+   "canonical": "xhfsa",
+   "kind": "rename"
+  },
+  "Ftpnh": {
+   "canonical": "ftpnh",
+   "kind": "case"
+  },
+  "Fupx": {
+   "canonical": "fhxs10",
+   "kind": "rename"
+  },
+  "Fzfsjt": {
+   "canonical": "fzfsjt",
+   "kind": "case"
+  },
+  "Fzhtjt": {
+   "canonical": "fzhtjt",
+   "kind": "case"
+  },
+  "Fzijp": {
+   "canonical": "fzijp",
+   "kind": "case"
+  },
+  "Fzktjt": {
+   "canonical": "fzktjt",
+   "kind": "case"
+  },
+  "Fzssjt": {
+   "canonical": "fzssjt",
+   "kind": "case"
+  },
+  "Fzxs12": {
+   "canonical": "fzxs12",
+   "kind": "case"
+  },
+  "GNUUnifontFull": {
+   "canonical": "unijp",
+   "kind": "rename"
+  },
+  "Gekifude": {
+   "canonical": "gekifude",
+   "kind": "case"
+  },
+  "Genijp": {
+   "canonical": "genijp",
+   "kind": "case"
+  },
+  "Gfmft": {
+   "canonical": "gfmft",
+   "kind": "case"
+  },
+  "Ghatee": {
+   "canonical": "ghatee",
+   "kind": "case"
+  },
+  "Glapjp": {
+   "canonical": "glapjp",
+   "kind": "case"
+  },
+  "Glcmjp": {
+   "canonical": "glcmjp",
+   "kind": "case"
+  },
+  "Gljgbt": {
+   "canonical": "gljgbt",
+   "kind": "case"
+  },
+  "Glnmjp": {
+   "canonical": "glnmjp",
+   "kind": "case"
+  },
+  "Gscjp": {
+   "canonical": "gscjp",
+   "kind": "case"
+  },
+  "Gsgpjp": {
+   "canonical": "gsgpjp",
+   "kind": "case"
+  },
+  "Gsht": {
+   "canonical": "gsht",
+   "kind": "case"
+  },
+  "Gshttc": {
+   "canonical": "gshttc",
+   "kind": "case"
+  },
+  "Gskd": {
+   "canonical": "gsdk",
+   "kind": "rename"
+  },
+  "Gsrjp": {
+   "canonical": "gsrjp",
+   "kind": "case"
+  },
+  "Gsrpjp": {
+   "canonical": "gsrpjp",
+   "kind": "case"
+  },
+  "Gsuihk": {
+   "canonical": "gsuihk",
+   "kind": "case"
+  },
+  "Gsuitc": {
+   "canonical": "gsuitc",
+   "kind": "case"
+  },
+  "Gygpjp": {
+   "canonical": "gygpjp",
+   "kind": "case"
+  },
+  "Gytljp": {
+   "canonical": "gytljp",
+   "kind": "case"
+  },
+  "Hachimarupop": {
+   "canonical": "hmpjp",
+   "kind": "rename"
+  },
+  "Hamjp": {
+   "canonical": "hamjp",
+   "kind": "case"
+  },
+  "Harmsa": {
+   "canonical": "harmsa",
+   "kind": "case"
+  },
+  "Hartgk": {
+   "canonical": "hartgk",
+   "kind": "case"
+  },
+  "Hccqcf": {
+   "canonical": "hccqcf",
+   "kind": "case"
+  },
+  "Hccqqh": {
+   "canonical": "hccqqh",
+   "kind": "case"
+  },
+  "Hcdhs": {
+   "canonical": "hcdhs",
+   "kind": "case"
+  },
+  "Hcdht": {
+   "canonical": "hcdht",
+   "kind": "case"
+  },
+  "Hcdin": {
+   "canonical": "hcdingt",
+   "kind": "rename"
+  },
+  "Hcdzt": {
+   "canonical": "hcdzt",
+   "kind": "case"
+  },
+  "Hchfs": {
+   "canonical": "hchfs",
+   "kind": "case"
+  },
+  "Hcjss": {
+   "canonical": "hcjss",
+   "kind": "case"
+  },
+  "Hckht": {
+   "canonical": "hckht",
+   "kind": "case"
+  },
+  "Hckt": {
+   "canonical": "hckt",
+   "kind": "case"
+  },
+  "Hclck2": {
+   "canonical": "hclcks",
+   "kind": "rename"
+  },
+  "Hclcks": {
+   "canonical": "hclcks",
+   "kind": "case"
+  },
+  "Hcqyt": {
+   "canonical": "hcqyt",
+   "kind": "case"
+  },
+  "Hcrym": {
+   "canonical": "hcytm",
+   "kind": "rename"
+  },
+  "Hcszt": {
+   "canonical": "hcszt",
+   "kind": "case"
+  },
+  "Hcth": {
+   "canonical": "hcth",
+   "kind": "case"
+  },
+  "Hctyt": {
+   "canonical": "hctyts",
+   "kind": "rename"
+  },
+  "Hcwjt": {
+   "canonical": "hcwjt",
+   "kind": "case"
+  },
+  "Hcyht": {
+   "canonical": "hcyht",
+   "kind": "case"
+  },
+  "Hcymh": {
+   "canonical": "hcymh",
+   "kind": "case"
+  },
+  "Hczk": {
+   "canonical": "hczk",
+   "kind": "case"
+  },
+  "Hei975": {
+   "canonical": "975ht",
+   "kind": "rename"
+  },
+  "Hjht": {
+   "canonical": "hjht",
+   "kind": "case"
+  },
+  "Hjst": {
+   "canonical": "hjst",
+   "kind": "case"
+  },
+  "Hjxs5h": {
+   "canonical": "hjxs5h",
+   "kind": "case"
+  },
+  "Hjxscm": {
+   "canonical": "hjxscm",
+   "kind": "case"
+  },
+  "Hjxsct": {
+   "canonical": "hjxsct",
+   "kind": "case"
+  },
+  "Hjxsjj": {
+   "canonical": "hjxsjj",
+   "kind": "case"
+  },
+  "Hjxskw": {
+   "canonical": "hjxskw",
+   "kind": "case"
+  },
+  "Hjxsxq": {
+   "canonical": "hjxsxq",
+   "kind": "case"
+  },
+  "Hkhlssxt": {
+   "canonical": "hkhlssxt",
+   "kind": "case"
+  },
+  "Hmgjp": {
+   "canonical": "hmgjp",
+   "kind": "case"
+  },
+  "Hnkmc": {
+   "canonical": "hnkmc",
+   "kind": "case"
+  },
+  "Hnmcjp": {
+   "canonical": "hnmcjp",
+   "kind": "case"
+  },
+  "Honsa": {
+   "canonical": "honsa",
+   "kind": "case"
+  },
+  "Hqwjp": {
+   "canonical": "hqwjp",
+   "kind": "case"
+  },
+  "Hrnajp": {
+   "canonical": "hrnajp",
+   "kind": "case"
+  },
+  "Hsakjp": {
+   "canonical": "hsakjp",
+   "kind": "case"
+  },
+  "Hsmbcs": {
+   "canonical": "hsmbcs",
+   "kind": "case"
+  },
+  "Hsmbjp": {
+   "canonical": "hsmbjp",
+   "kind": "case"
+  },
+  "Hsmbxs": {
+   "canonical": "hsmbxs",
+   "kind": "case"
+  },
+  "Hsmbzt": {
+   "canonical": "hsmb",
+   "kind": "rename"
+  },
+  "Humour": {
+   "canonical": "humour",
+   "kind": "case"
+  },
+  "Hwmc": {
+   "canonical": "hwmc",
+   "kind": "case"
+  },
+  "Hxbnst": {
+   "canonical": "hxbnst",
+   "kind": "case"
+  },
+  "Hxbsb": {
+   "canonical": "hxbsbt",
+   "kind": "rename"
+  },
+  "Hxbsbt": {
+   "canonical": "hxbsbt",
+   "kind": "case"
+  },
+  "Hxbzst": {
+   "canonical": "hxbzst",
+   "kind": "case"
+  },
+  "Hxwk": {
+   "canonical": "hcxk",
+   "kind": "rename"
+  },
+  "Hymc": {
+   "canonical": "hymc",
+   "kind": "case"
+  },
+  "Hymca": {
+   "canonical": "hymca",
+   "kind": "case"
+  },
+  "Hymcb": {
+   "canonical": "hymcb",
+   "kind": "case"
+  },
+  "Hyqzpt": {
+   "canonical": "hyqzpt",
+   "kind": "case"
+  },
+  "Hyzi": {
+   "canonical": "hyzt",
+   "kind": "rename"
+  },
+  "Hyztc": {
+   "canonical": "hyztc",
+   "kind": "case"
+  },
+  "Hzpy": {
+   "canonical": "hzpyt",
+   "kind": "rename"
+  },
+  "Hzpyt": {
+   "canonical": "hzpyt",
+   "kind": "case"
+  },
+  "IPAGothic": {
+   "canonical": "ipagothic",
+   "kind": "case"
+  },
+  "IPAexGothic": {
+   "canonical": "ipaexgothic",
+   "kind": "case"
+  },
+  "IPAexMincho": {
+   "canonical": "ipamjp",
+   "kind": "rename"
+  },
+  "Ibmps": {
+   "canonical": "ibmps",
+   "kind": "case"
+  },
+  "Ibmpsjp": {
+   "canonical": "ibmpsjp",
+   "kind": "case"
+  },
+  "Ibmpstc": {
+   "canonical": "ibmpstc",
+   "kind": "case"
+  },
+  "Idrjp": {
+   "canonical": "idrjp",
+   "kind": "case"
+  },
+  "Iromc": {
+   "canonical": "iromc",
+   "kind": "case"
+  },
+  "Iromr": {
+   "canonical": "iromr",
+   "kind": "case"
+  },
+  "Jeroit": {
+   "canonical": "jeroit",
+   "kind": "case"
+  },
+  "JfOpenHuninn": {
+   "canonical": "jfofy",
+   "kind": "rename"
+  },
+  "Jfdajp": {
+   "canonical": "jfdajp",
+   "kind": "case"
+  },
+  "Jfdig": {
+   "canonical": "jfdig",
+   "kind": "case"
+  },
+  "Jfdj16": {
+   "canonical": "jfdj16",
+   "kind": "case"
+  },
+  "Jfdj16s": {
+   "canonical": "jfdj16s",
+   "kind": "case"
+  },
+  "Jfdj24": {
+   "canonical": "jfdj24",
+   "kind": "case"
+  },
+  "Jfdj24h": {
+   "canonical": "jfdj24h",
+   "kind": "case"
+  },
+  "Jfdk12": {
+   "canonical": "jfdk12",
+   "kind": "case"
+  },
+  "Jfdk12x10": {
+   "canonical": "jfdk12x10",
+   "kind": "case"
+  },
+  "Jfdk14": {
+   "canonical": "jfdk14",
+   "kind": "case"
+  },
+  "Jfdk20": {
+   "canonical": "jfdk20",
+   "kind": "case"
+  },
+  "Jfdkjp": {
+   "canonical": "jfdkjp",
+   "kind": "case"
+  },
+  "Jfdm16": {
+   "canonical": "jfdm16",
+   "kind": "case"
+  },
+  "Jfdmjp": {
+   "canonical": "jfdmjp",
+   "kind": "case"
+  },
+  "Jfdsjp": {
+   "canonical": "jfdsjp",
+   "kind": "case"
+  },
+  "Jgma": {
+   "canonical": "jgmta",
+   "kind": "rename"
+  },
+  "Jgmb": {
+   "canonical": "jgmtb",
+   "kind": "rename"
+  },
+  "Jgmc": {
+   "canonical": "jgmtc",
+   "kind": "rename"
+  },
+  "Jhk": {
+   "canonical": "jhk",
+   "kind": "case"
+  },
+  "Jkgljp": {
+   "canonical": "jkgljp",
+   "kind": "case"
+  },
+  "Jkmgjp": {
+   "canonical": "jkmgjp",
+   "kind": "case"
+  },
+  "Jlpx": {
+   "canonical": "gdxs12",
+   "kind": "rename"
+  },
+  "Jlyhmht": {
+   "canonical": "jlyhmht",
+   "kind": "case"
+  },
+  "Jnbbh": {
+   "canonical": "jnbbh",
+   "kind": "case"
+  },
+  "Jnmy": {
+   "canonical": "jnmy",
+   "kind": "case"
+  },
+  "Jnymt": {
+   "canonical": "jnymt",
+   "kind": "case"
+  },
+  "Jnyyjyy": {
+   "canonical": "jnyyjyy",
+   "kind": "case"
+  },
+  "Jpdz": {
+   "canonical": "jpdzt",
+   "kind": "rename"
+  },
+  "Jsyjst": {
+   "canonical": "jsyjst",
+   "kind": "case"
+  },
+  "Juisee": {
+   "canonical": "juisee",
+   "kind": "case"
+  },
+  "Jxzk": {
+   "canonical": "jxzkt",
+   "kind": "rename"
+  },
+  "Jycjp": {
+   "canonical": "jycjp",
+   "kind": "case"
+  },
+  "Jzkgeht": {
+   "canonical": "jzkgeht",
+   "kind": "case"
+  },
+  "Jzkgemc": {
+   "canonical": "jmct",
+   "kind": "rename"
+  },
+  "K12x8": {
+   "canonical": "k12x8",
+   "kind": "case"
+  },
+  "K6x8g": {
+   "canonical": "k6x8g",
+   "kind": "case"
+  },
+  "K6x8m": {
+   "canonical": "k6x8m",
+   "kind": "case"
+  },
+  "K8x12": {
+   "canonical": "k8x12",
+   "kind": "case"
+  },
+  "K8x12l": {
+   "canonical": "k8x12l",
+   "kind": "case"
+  },
+  "K8x12s": {
+   "canonical": "k8x12s",
+   "kind": "case"
+  },
+  "Kaiso": {
+   "canonical": "kaiso",
+   "kind": "case"
+  },
+  "Kalo": {
+   "canonical": "khtsa",
+   "kind": "rename"
+  },
+  "Keifjp": {
+   "canonical": "keifjp",
+   "kind": "case"
+  },
+  "Khdak16": {
+   "canonical": "khdak16",
+   "kind": "case"
+  },
+  "Khdd12": {
+   "canonical": "khdd12",
+   "kind": "case"
+  },
+  "Khdd16": {
+   "canonical": "khdd16",
+   "kind": "case"
+  },
+  "Khdhb16": {
+   "canonical": "khdhb16",
+   "kind": "case"
+  },
+  "Khdhy24": {
+   "canonical": "khdhy24",
+   "kind": "case"
+  },
+  "Khdhy32": {
+   "canonical": "khdhy32",
+   "kind": "case"
+  },
+  "Khdkb16": {
+   "canonical": "khdkb16",
+   "kind": "case"
+  },
+  "Khdkg12": {
+   "canonical": "khdkg12",
+   "kind": "case"
+  },
+  "Khdkg16": {
+   "canonical": "khdkg16",
+   "kind": "case"
+  },
+  "Khdkm12": {
+   "canonical": "khdkm12",
+   "kind": "case"
+  },
+  "Khdkm12ki": {
+   "canonical": "khdkm12ki",
+   "kind": "case"
+  },
+  "Khdkm12ko": {
+   "canonical": "khdkm12ko",
+   "kind": "case"
+  },
+  "Khdkm16": {
+   "canonical": "khdkm16",
+   "kind": "case"
+  },
+  "Khdkm16ki": {
+   "canonical": "khdkm16ki",
+   "kind": "case"
+  },
+  "Khdny16": {
+   "canonical": "khdny16",
+   "kind": "case"
+  },
+  "Khujp": {
+   "canonical": "khujp",
+   "kind": "case"
+  },
+  "Kimberella": {
+   "canonical": "kimberella",
+   "kind": "case"
+  },
+  "Kisjp": {
+   "canonical": "kisjp",
+   "kind": "case"
+  },
+  "Kiwimaru": {
+   "canonical": "kwmrjp",
+   "kind": "rename"
+  },
+  "Kksjt": {
+   "canonical": "kksjt",
+   "kind": "case"
+  },
+  "Klee": {
+   "canonical": "klojp",
+   "kind": "rename"
+  },
+  "Kljjp": {
+   "canonical": "kljjp",
+   "kind": "case"
+  },
+  "Klsyt": {
+   "canonical": "inkslyt",
+   "kind": "rename"
+  },
+  "Kmrbg": {
+   "canonical": "kmrbg",
+   "kind": "case"
+  },
+  "Knkkjp": {
+   "canonical": "knkkjp",
+   "kind": "case"
+  },
+  "Kokoro": {
+   "canonical": "kokoro",
+   "kind": "case"
+  },
+  "Konatu": {
+   "canonical": "konatu",
+   "kind": "case"
+  },
+  "KonatuTohaba": {
+   "canonical": "konatutohaba",
+   "kind": "case"
+  },
+  "Kosugi": {
+   "canonical": "ksgjp",
+   "kind": "rename"
+  },
+  "Kosugimaru": {
+   "canonical": "ksgmr",
+   "kind": "rename"
+  },
+  "Kqxzy": {
+   "canonical": "kqxzy",
+   "kind": "case"
+  },
+  "Krrjp": {
+   "canonical": "krrjp",
+   "kind": "case"
+  },
+  "Ksdcjp": {
+   "canonical": "ksdcjp",
+   "kind": "case"
+  },
+  "Kslgbht": {
+   "canonical": "gbhb",
+   "kind": "rename"
+  },
+  "Kslyt": {
+   "canonical": "ydmt",
+   "kind": "rename"
+  },
+  "Ksojp": {
+   "canonical": "ksojp",
+   "kind": "case"
+  },
+  "Kstkm": {
+   "canonical": "kstkm",
+   "kind": "case"
+  },
+  "Kwgh": {
+   "canonical": "mhkrwg",
+   "kind": "rename"
+  },
+  "Kys": {
+   "canonical": "kyhtsa",
+   "kind": "rename"
+  },
+  "Kywa": {
+   "canonical": "klwyt",
+   "kind": "rename"
+  },
+  "Kzkrw": {
+   "canonical": "kzkrw",
+   "kind": "case"
+  },
+  "Kzswjp": {
+   "canonical": "kzswjp",
+   "kind": "case"
+  },
+  "Lana-pixel": {
+   "canonical": "lana-pixel",
+   "kind": "case"
+  },
+  "Lftsyh": {
+   "canonical": "lft11h",
+   "kind": "rename"
+  },
+  "Lhktss": {
+   "canonical": "lhktss",
+   "kind": "case"
+  },
+  "Lhls": {
+   "canonical": "lhtt",
+   "kind": "rename"
+  },
+  "Lhzt": {
+   "canonical": "lhzt",
+   "kind": "case"
+  },
+  "Linesjp": {
+   "canonical": "linesjp",
+   "kind": "case"
+  },
+  "Ljmc": {
+   "canonical": "zqljmc",
+   "kind": "rename"
+  },
+  "Lmqylszrht": {
+   "canonical": "lmqylszrht",
+   "kind": "case"
+  },
+  "Lnsw": {
+   "canonical": "linestw",
+   "kind": "rename"
+  },
+  "Lxht": {
+   "canonical": "lxhtssa",
+   "kind": "rename"
+  },
+  "Lyss": {
+   "canonical": "lyss",
+   "kind": "case"
+  },
+  "Lyusung": {
+   "canonical": "lyusung",
+   "kind": "case"
+  },
+  "Lzti": {
+   "canonical": "lsclzt",
+   "kind": "rename"
+  },
+  "Masa": {
+   "canonical": "zfmb",
+   "kind": "rename"
+  },
+  "Matc": {
+   "canonical": "mksjhtc",
+   "kind": "rename"
+  },
+  "Mdmz": {
+   "canonical": "mdmb",
+   "kind": "rename"
+  },
+  "Memjp": {
+   "canonical": "memjp",
+   "kind": "case"
+  },
+  "Merjp": {
+   "canonical": "merjp",
+   "kind": "case"
+  },
+  "Mhtug": {
+   "canonical": "mhtug",
+   "kind": "case"
+  },
+  "Minmjp": {
+   "canonical": "minmjp",
+   "kind": "case"
+  },
+  "Misa": {
+   "canonical": "misa",
+   "kind": "case"
+  },
+  "Misakig": {
+   "canonical": "misakig",
+   "kind": "case"
+  },
+  "Misakig2nd": {
+   "canonical": "misakig2nd",
+   "kind": "case"
+  },
+  "Misakim": {
+   "canonical": "misakim",
+   "kind": "case"
+  },
+  "Mjdm": {
+   "canonical": "mjdztmc",
+   "kind": "rename"
+  },
+  "Mjdz": {
+   "canonical": "mjdzt",
+   "kind": "rename"
+  },
+  "Mkcjp": {
+   "canonical": "mkcjp",
+   "kind": "case"
+  },
+  "Mkgh": {
+   "canonical": "wzht",
+   "kind": "rename"
+  },
+  "Mkkzh": {
+   "canonical": "mkkzzh",
+   "kind": "rename"
+  },
+  "Mkkzs": {
+   "canonical": "mkkzzs",
+   "kind": "rename"
+  },
+  "Mkn4jp": {
+   "canonical": "mkn4jp",
+   "kind": "case"
+  },
+  "Mksjh": {
+   "canonical": "mksjh",
+   "kind": "case"
+  },
+  "Mksjhtc": {
+   "canonical": "mksjhtc",
+   "kind": "case"
+  },
+  "Mkwfys": {
+   "canonical": "mkwfys",
+   "kind": "case"
+  },
+  "Mkwgzh": {
+   "canonical": "mkwgzh",
+   "kind": "case"
+  },
+  "Mkwgzs": {
+   "canonical": "mkwgzs",
+   "kind": "case"
+  },
+  "Mkwwms": {
+   "canonical": "mkwwms",
+   "kind": "case"
+  },
+  "Mkwxy": {
+   "canonical": "mkwtyt",
+   "kind": "rename"
+  },
+  "Mkwybs": {
+   "canonical": "mkwybs",
+   "kind": "case"
+  },
+  "Mkybkjs": {
+   "canonical": "mkybks",
+   "kind": "rename"
+  },
+  "Mkzyt": {
+   "canonical": "mkzyt",
+   "kind": "case"
+  },
+  "Mlkytjp": {
+   "canonical": "mlkytjp",
+   "kind": "case"
+  },
+  "Mlkyttc": {
+   "canonical": "mlkyttc",
+   "kind": "case"
+  },
+  "Mlyu": {
+   "canonical": "mlkyt",
+   "kind": "rename"
+  },
+  "Mmct": {
+   "canonical": "mmct",
+   "kind": "case"
+  },
+  "Mmlnjp": {
+   "canonical": "mmlnjp",
+   "kind": "case"
+  },
+  "Mmsft": {
+   "canonical": "mmsft",
+   "kind": "case"
+  },
+  "Mnbyjp": {
+   "canonical": "mnbyjp",
+   "kind": "case"
+  },
+  "Mp12": {
+   "canonical": "mpg12jp",
+   "kind": "rename"
+  },
+  "Mplus1": {
+   "canonical": "mp1jp",
+   "kind": "rename"
+  },
+  "Mplus1Code": {
+   "canonical": "mp1cjp",
+   "kind": "rename"
+  },
+  "Mplus1c": {
+   "canonical": "m1cjp",
+   "kind": "rename"
+  },
+  "Mplus1m": {
+   "canonical": "mp1mjp",
+   "kind": "rename"
+  },
+  "Mplus1mn": {
+   "canonical": "mp1mn",
+   "kind": "rename"
+  },
+  "Mplus1p": {
+   "canonical": "mp1pjp",
+   "kind": "rename"
+  },
+  "Mplus2": {
+   "canonical": "mp2jp",
+   "kind": "rename"
+  },
+  "Mplus2c": {
+   "canonical": "mp2cjp",
+   "kind": "rename"
+  },
+  "Mplus2m": {
+   "canonical": "mp2mjp",
+   "kind": "rename"
+  },
+  "Mplus2p": {
+   "canonical": "mp2pjp",
+   "kind": "rename"
+  },
+  "MplusU": {
+   "canonical": "mpujp",
+   "kind": "rename"
+  },
+  "Mrcjp": {
+   "canonical": "mrcjp",
+   "kind": "case"
+  },
+  "Mshx": {
+   "canonical": "mssxt",
+   "kind": "rename"
+  },
+  "Mspyt": {
+   "canonical": "myst",
+   "kind": "rename"
+  },
+  "Msz": {
+   "canonical": "mszks",
+   "kind": "rename"
+  },
+  "Mtk1": {
+   "canonical": "fdqkt",
+   "kind": "rename"
+  },
+  "Mtk2": {
+   "canonical": "fdqkt2",
+   "kind": "rename"
+  },
+  "Mts1": {
+   "canonical": "fdqst",
+   "kind": "rename"
+  },
+  "Mts2": {
+   "canonical": "fdqst2",
+   "kind": "rename"
+  },
+  "Mxhn": {
+   "canonical": "b2hy",
+   "kind": "rename"
+  },
+  "Myhtp3l": {
+   "canonical": "myhtp3l",
+   "kind": "case"
+  },
+  "Myngy": {
+   "canonical": "myngy",
+   "kind": "case"
+  },
+  "Myrbsxt": {
+   "canonical": "myrbsxt",
+   "kind": "case"
+  },
+  "Mystp3l": {
+   "canonical": "mystp3l",
+   "kind": "case"
+  },
+  "Mysxt": {
+   "canonical": "myrbsxt",
+   "kind": "rename"
+  },
+  "Nagino": {
+   "canonical": "nagino",
+   "kind": "case"
+  },
+  "Nani": {
+   "canonical": "hmsxt",
+   "kind": "rename"
+  },
+  "Nckkjp": {
+   "canonical": "nckkjp",
+   "kind": "case"
+  },
+  "Ngz": {
+   "canonical": "yzfdz",
+   "kind": "rename"
+  },
+  "Nk": {
+   "canonical": "nkakf",
+   "kind": "rename"
+  },
+  "Nrbyh": {
+   "canonical": "nrbyh",
+   "kind": "case"
+  },
+  "Nrdws": {
+   "canonical": "nrdws",
+   "kind": "case"
+  },
+  "Nsfx": {
+   "canonical": "nsfq",
+   "kind": "rename"
+  },
+  "Nshjp": {
+   "canonical": "nshjp",
+   "kind": "case"
+  },
+  "Nsktk": {
+   "canonical": "nsktk",
+   "kind": "case"
+  },
+  "Nswt": {
+   "canonical": "nswt",
+   "kind": "case"
+  },
+  "Ntgmjp": {
+   "canonical": "ntgmjp",
+   "kind": "case"
+  },
+  "Ntntjp": {
+   "canonical": "ntntjp",
+   "kind": "case"
+  },
+  "Opsa": {
+   "canonical": "opsa",
+   "kind": "case"
+  },
+  "Ottmjp": {
+   "canonical": "ottmjp",
+   "kind": "case"
+  },
+  "P00jp": {
+   "canonical": "p00jp",
+   "kind": "case"
+  },
+  "P01jp": {
+   "canonical": "p01jp",
+   "kind": "case"
+  },
+  "Pdmnjp": {
+   "canonical": "pdmnjp",
+   "kind": "case"
+  },
+  "Pfhtt": {
+   "canonical": "pfhtt",
+   "kind": "case"
+  },
+  "Plejp": {
+   "canonical": "plejp",
+   "kind": "case"
+  },
+  "Plwk": {
+   "canonical": "plwkpl",
+   "kind": "rename"
+  },
+  "Plwkpe": {
+   "canonical": "plwkpe",
+   "kind": "case"
+  },
+  "Pmzdbtt": {
+   "canonical": "pmzdbtt",
+   "kind": "case"
+  },
+  "Pmzdcsd": {
+   "canonical": "pmzdcst",
+   "kind": "rename"
+  },
+  "Pmzdqst": {
+   "canonical": "pmzdqst",
+   "kind": "case"
+  },
+  "Pmzdzgkt": {
+   "canonical": "pmzdzgkt",
+   "kind": "case"
+  },
+  "Popgh": {
+   "canonical": "lxhtpop",
+   "kind": "rename"
+  },
+  "Prcjp": {
+   "canonical": "prcjp",
+   "kind": "case"
+  },
+  "Prejp": {
+   "canonical": "prejp",
+   "kind": "case"
+  },
+  "Prktjp": {
+   "canonical": "prktjp",
+   "kind": "case"
+  },
+  "Prsxt": {
+   "canonical": "prsxt",
+   "kind": "case"
+  },
+  "Pxzs": {
+   "canonical": "pxzs",
+   "kind": "case"
+  },
+  "Pywk": {
+   "canonical": "astpywk",
+   "kind": "rename"
+  },
+  "QRpx": {
+   "canonical": "ewmxs",
+   "kind": "rename"
+  },
+  "Qhddl": {
+   "canonical": "qhdlt",
+   "kind": "rename"
+  },
+  "Qiji": {
+   "canonical": "qjt",
+   "kind": "rename"
+  },
+  "Qkhc": {
+   "canonical": "qkhtcl",
+   "kind": "rename"
+  },
+  "Qkhm": {
+   "canonical": "qkhtm",
+   "kind": "rename"
+  },
+  "Qlhct": {
+   "canonical": "qlhct",
+   "kind": "case"
+  },
+  "Qllst": {
+   "canonical": "qllst",
+   "kind": "case"
+  },
+  "Qlsstas": {
+   "canonical": "qlsstas",
+   "kind": "case"
+  },
+  "Qssb": {
+   "canonical": "qsstb",
+   "kind": "rename"
+  },
+  "Qsst": {
+   "canonical": "qsst",
+   "kind": "case"
+  },
+  "Qssxt": {
+   "canonical": "qssxt2",
+   "kind": "rename"
+  },
+  "Qtbfsxt": {
+   "canonical": "qtbfsxt",
+   "kind": "case"
+  },
+  "Qthht": {
+   "canonical": "qthht",
+   "kind": "case"
+  },
+  "Qtmksxt": {
+   "canonical": "qtmksxt",
+   "kind": "case"
+  },
+  "Qtxht": {
+   "canonical": "qtxht",
+   "kind": "case"
+  },
+  "Qtxmt": {
+   "canonical": "qtxmt",
+   "kind": "case"
+  },
+  "Qtxtt": {
+   "canonical": "qtxtt",
+   "kind": "case"
+  },
+  "Qyyt": {
+   "canonical": "qyyt",
+   "kind": "case"
+  },
+  "Qzkswjz": {
+   "canonical": "ebaswcxt",
+   "kind": "rename"
+  },
+  "Qzkzkt": {
+   "canonical": "qzkzkt",
+   "kind": "case"
+  },
+  "Qzkzst": {
+   "canonical": "qzkzst",
+   "kind": "case"
+  },
+  "Rampart": {
+   "canonical": "ramojp",
+   "kind": "rename"
+  },
+  "Rbsjp": {
+   "canonical": "rbsjp",
+   "kind": "case"
+  },
+  "Reggae": {
+   "canonical": "regojp",
+   "kind": "rename"
+  },
+  "Rmgpjp": {
+   "canonical": "rmgpjp",
+   "kind": "case"
+  },
+  "RocknRoll": {
+   "canonical": "rrojp",
+   "kind": "rename"
+  },
+  "Rofs16": {
+   "canonical": "rofs16",
+   "kind": "case"
+  },
+  "Roroit": {
+   "canonical": "roroit",
+   "kind": "case"
+  },
+  "Rzzyt": {
+   "canonical": "zygb",
+   "kind": "rename"
+  },
+  "Sastjp": {
+   "canonical": "sastjp",
+   "kind": "case"
+  },
+  "Scjskkt": {
+   "canonical": "scjskkt",
+   "kind": "case"
+  },
+  "Sft": {
+   "canonical": "sftb",
+   "kind": "rename"
+  },
+  "Sgdk": {
+   "canonical": "sgdk",
+   "kind": "case"
+  },
+  "Sght": {
+   "canonical": "sght",
+   "kind": "case"
+  },
+  "Sgmt": {
+   "canonical": "sgmt",
+   "kind": "case"
+  },
+  "Sgyt": {
+   "canonical": "sgyt",
+   "kind": "case"
+  },
+  "Shipporiantique": {
+   "canonical": "spatq",
+   "kind": "rename"
+  },
+  "Shipporiantiqueb1": {
+   "canonical": "sab1jp",
+   "kind": "rename"
+  },
+  "Shipporimincho": {
+   "canonical": "shimjp",
+   "kind": "rename"
+  },
+  "Shipporiminchob1": {
+   "canonical": "smb1jp",
+   "kind": "rename"
+  },
+  "Shmdt": {
+   "canonical": "shmdt",
+   "kind": "case"
+  },
+  "Shp": {
+   "canonical": "syhtxs",
+   "kind": "rename"
+  },
+  "Skmgjp": {
+   "canonical": "skmgjp",
+   "kind": "case"
+  },
+  "Slcf": {
+   "canonical": "yscfk",
+   "kind": "rename"
+  },
+  "Slfu": {
+   "canonical": "ysfxt",
+   "kind": "rename"
+  },
+  "Slqh": {
+   "canonical": "ysqhk",
+   "kind": "rename"
+  },
+  "Slxx": {
+   "canonical": "ysxxk",
+   "kind": "rename"
+  },
+  "Sly1": {
+   "canonical": "ysyrxke",
+   "kind": "rename"
+  },
+  "Slyr": {
+   "canonical": "ysyrxk",
+   "kind": "rename"
+  },
+  "Smht": {
+   "canonical": "smht",
+   "kind": "case"
+  },
+  "Smsnjp": {
+   "canonical": "smsnjp",
+   "kind": "case"
+  },
+  "Smxst": {
+   "canonical": "smxst",
+   "kind": "case"
+  },
+  "Snbgjp": {
+   "canonical": "snbgjp",
+   "kind": "case"
+  },
+  "Sorjp": {
+   "canonical": "sorjp",
+   "kind": "case"
+  },
+  "SourceHanSansCNRegular": {
+   "canonical": "syhtcn",
+   "kind": "rename"
+  },
+  "SourceHanSansTWRegular": {
+   "canonical": "syhttw",
+   "kind": "rename"
+  },
+  "SourceHanSansXTRegular": {
+   "canonical": "syhtxt",
+   "kind": "rename"
+  },
+  "SourceHanSerifCNforDisplay": {
+   "canonical": "sypxzscn",
+   "kind": "rename"
+  },
+  "Sscjk": {
+   "canonical": "sscjk",
+   "kind": "case"
+  },
+  "Stfytz": {
+   "canonical": "stfyt",
+   "kind": "rename"
+  },
+  "Stfzxfxct": {
+   "canonical": "stfzxfxct",
+   "kind": "case"
+  },
+  "Stick": {
+   "canonical": "stijp",
+   "kind": "rename"
+  },
+  "Sw3tleg": {
+   "canonical": "swstht",
+   "kind": "rename"
+  },
+  "Sw3tsans": {
+   "canonical": "swsjhtsc",
+   "kind": "rename"
+  },
+  "Swaliasleg": {
+   "canonical": "swjutht",
+   "kind": "rename"
+  },
+  "Swaliassans": {
+   "canonical": "swjuchtsc",
+   "kind": "rename"
+  },
+  "Swaxleg": {
+   "canonical": "swftht",
+   "kind": "rename"
+  },
+  "Swaxsans": {
+   "canonical": "swfthtsc",
+   "kind": "rename"
+  },
+  "Swb2leg": {
+   "canonical": "swb2tht",
+   "kind": "rename"
+  },
+  "Swb2sans": {
+   "canonical": "swb2htsc",
+   "kind": "rename"
+  },
+  "Swb2serif": {
+   "canonical": "swb2st",
+   "kind": "rename"
+  },
+  "Swbatsans": {
+   "canonical": "swbfyt",
+   "kind": "rename"
+  },
+  "Swbellleg": {
+   "canonical": "swltht",
+   "kind": "rename"
+  },
+  "Swbellsans": {
+   "canonical": "swlbhtsc",
+   "kind": "rename"
+  },
+  "Swboneleg": {
+   "canonical": "swgtht",
+   "kind": "rename"
+  },
+  "Swbonesans": {
+   "canonical": "swgthtsc",
+   "kind": "rename"
+  },
+  "Swbowleg": {
+   "canonical": "swntht",
+   "kind": "rename"
+  },
+  "Swbowsans": {
+   "canonical": "swnhtsc",
+   "kind": "rename"
+  },
+  "Swcurveleg": {
+   "canonical": "swwtht",
+   "kind": "rename"
+  },
+  "Swcurvesans": {
+   "canonical": "swwhtsc",
+   "kind": "rename"
+  },
+  "Swdartleg": {
+   "canonical": "swfbtht",
+   "kind": "rename"
+  },
+  "Swdartsans": {
+   "canonical": "swfbhtsc",
+   "kind": "rename"
+  },
+  "Swdellunaleg": {
+   "canonical": "swdltht",
+   "kind": "rename"
+  },
+  "Swdellunasans": {
+   "canonical": "swdlnhtsc",
+   "kind": "rename"
+  },
+  "Swdevilleg": {
+   "canonical": "swetht",
+   "kind": "rename"
+  },
+  "Swdevilsans": {
+   "canonical": "swemhtsc",
+   "kind": "rename"
+  },
+  "Swdlucy": {
+   "canonical": "swdlx",
+   "kind": "rename"
+  },
+  "SweiB2Sugar": {
+   "canonical": "swb2jtst",
+   "kind": "rename"
+  },
+  "SweiSpring": {
+   "canonical": "swsjc",
+   "kind": "rename"
+  },
+  "Swfanleg": {
+   "canonical": "swfztht",
+   "kind": "rename"
+  },
+  "Swfansans": {
+   "canonical": "swfzhtsc",
+   "kind": "rename"
+  },
+  "Swfanserif": {
+   "canonical": "swfzst",
+   "kind": "rename"
+  },
+  "Swfistleg": {
+   "canonical": "swytht",
+   "kind": "rename"
+  },
+  "Swfistsans": {
+   "canonical": "swychtsc",
+   "kind": "rename"
+  },
+  "Swgospelleg": {
+   "canonical": "swfytht",
+   "kind": "rename"
+  },
+  "Swgospelsans": {
+   "canonical": "swfyhtsc",
+   "kind": "rename"
+  },
+  "Swgothic": {
+   "canonical": "swytsc",
+   "kind": "rename"
+  },
+  "Swgothicleg": {
+   "canonical": "swtyt",
+   "kind": "rename"
+  },
+  "Swhalfmoon": {
+   "canonical": "swbyt",
+   "kind": "rename"
+  },
+  "Swjayleg": {
+   "canonical": "swjztht",
+   "kind": "rename"
+  },
+  "Swjaysans": {
+   "canonical": "swjzhtsc",
+   "kind": "rename"
+  },
+  "Swjayserif": {
+   "canonical": "swjzst",
+   "kind": "rename"
+  },
+  "Swmarkerleg": {
+   "canonical": "swmtht",
+   "kind": "rename"
+  },
+  "Swmarkersans": {
+   "canonical": "swmkhtsc",
+   "kind": "rename"
+  },
+  "Swmatchleg": {
+   "canonical": "swhtht",
+   "kind": "rename"
+  },
+  "Swmatchsans": {
+   "canonical": "swhchtsc",
+   "kind": "rename"
+  },
+  "Swmeatball": {
+   "canonical": "swrwsc",
+   "kind": "rename"
+  },
+  "Swnutleg": {
+   "canonical": "swlmtht",
+   "kind": "rename"
+  },
+  "Swnutsans": {
+   "canonical": "swlmhtsc",
+   "kind": "rename"
+  },
+  "Swrainbowleg": {
+   "canonical": "swcht",
+   "kind": "rename"
+  },
+  "Swrbg": {
+   "canonical": "swrbg",
+   "kind": "case"
+  },
+  "Swrbm": {
+   "canonical": "swrbm",
+   "kind": "case"
+  },
+  "Swrightbottoml": {
+   "canonical": "swyxtht",
+   "kind": "rename"
+  },
+  "Swrightbottoms": {
+   "canonical": "swyxyhtsc",
+   "kind": "rename"
+  },
+  "Swsans": {
+   "canonical": "swhtsc",
+   "kind": "rename"
+  },
+  "Swshearleg": {
+   "canonical": "swktht",
+   "kind": "rename"
+  },
+  "Swshearsans": {
+   "canonical": "swkjhtsc",
+   "kind": "rename"
+  },
+  "Swspikeleg": {
+   "canonical": "swjtht",
+   "kind": "rename"
+  },
+  "Swspikesans": {
+   "canonical": "swjchtsc",
+   "kind": "rename"
+  },
+  "Swsugar": {
+   "canonical": "swjtst",
+   "kind": "rename"
+  },
+  "Swtoothpaste": {
+   "canonical": "swygyt",
+   "kind": "rename"
+  },
+  "Swxd": {
+   "canonical": "swxdzz",
+   "kind": "rename"
+  },
+  "Swzh": {
+   "canonical": "swzh16",
+   "kind": "rename"
+  },
+  "Sydkhk": {
+   "canonical": "sydkhk",
+   "kind": "case"
+  },
+  "Sydkjp": {
+   "canonical": "sydkjp",
+   "kind": "case"
+  },
+  "Sydkmjp": {
+   "canonical": "sydkmjp",
+   "kind": "case"
+  },
+  "Sydktc": {
+   "canonical": "sydktc",
+   "kind": "case"
+  },
+  "Syhtcjk": {
+   "canonical": "syhtr",
+   "kind": "rename"
+  },
+  "Syhthk": {
+   "canonical": "syhthk",
+   "kind": "case"
+  },
+  "Syhtjp": {
+   "canonical": "syhtjp",
+   "kind": "case"
+  },
+  "Syhtsc": {
+   "canonical": "syhtsc",
+   "kind": "case"
+  },
+  "Sykd": {
+   "canonical": "sydksc",
+   "kind": "rename"
+  },
+  "Syma": {
+   "canonical": "symca",
+   "kind": "rename"
+  },
+  "Symb": {
+   "canonical": "symcb",
+   "kind": "rename"
+  },
+  "Symdxft": {
+   "canonical": "stmdxft",
+   "kind": "rename"
+  },
+  "Systcn": {
+   "canonical": "systcn",
+   "kind": "case"
+  },
+  "Systcnl": {
+   "canonical": "systcnl",
+   "kind": "case"
+  },
+  "Systhk": {
+   "canonical": "systhk",
+   "kind": "case"
+  },
+  "Systjp": {
+   "canonical": "systjp",
+   "kind": "case"
+  },
+  "Systsc": {
+   "canonical": "systsc",
+   "kind": "case"
+  },
+  "Systtc": {
+   "canonical": "systtc",
+   "kind": "case"
+  },
+  "Szht": {
+   "canonical": "szht",
+   "kind": "case"
+  },
+  "Szst": {
+   "canonical": "szst",
+   "kind": "case"
+  },
+  "Taipei-pixel": {
+   "canonical": "taipei-pixel",
+   "kind": "case"
+  },
+  "Tbht": {
+   "canonical": "tbht",
+   "kind": "case"
+  },
+  "Tbmct": {
+   "canonical": "tbmct",
+   "kind": "case"
+  },
+  "Tgltjp": {
+   "canonical": "tgltjp",
+   "kind": "case"
+  },
+  "Tjlt": {
+   "canonical": "tjlt",
+   "kind": "case"
+  },
+  "Tktpjp": {
+   "canonical": "tktpjp",
+   "kind": "case"
+  },
+  "Tmmcwjp": {
+   "canonical": "tmmcwjp",
+   "kind": "case"
+  },
+  "Tngjp": {
+   "canonical": "tngjp",
+   "kind": "case"
+  },
+  "Tpmjp": {
+   "canonical": "tpmjp",
+   "kind": "case"
+  },
+  "Train": {
+   "canonical": "traojp",
+   "kind": "rename"
+  },
+  "TsangerFeiBaiW01": {
+   "canonical": "cefbw01",
+   "kind": "rename"
+  },
+  "TsangerFeiBaiW02": {
+   "canonical": "cefbw02",
+   "kind": "rename"
+  },
+  "TsangerFeiBaiW03": {
+   "canonical": "cefbw03",
+   "kind": "rename"
+  },
+  "TsangerFeiBaiW04": {
+   "canonical": "cefbw04",
+   "kind": "rename"
+  },
+  "TsangerFeiBaiW05": {
+   "canonical": "cefbw05",
+   "kind": "rename"
+  },
+  "TsangerShuYuanTW01": {
+   "canonical": "cesyt",
+   "kind": "rename"
+  },
+  "TsangerShuYuanTW02": {
+   "canonical": "cesytw02",
+   "kind": "rename"
+  },
+  "TsangerShuYuanTW03": {
+   "canonical": "cesytw03",
+   "kind": "rename"
+  },
+  "TsangerShuYuanTW04": {
+   "canonical": "cesytw04",
+   "kind": "rename"
+  },
+  "TsangerShuYuanTW05": {
+   "canonical": "cesytw05",
+   "kind": "rename"
+  },
+  "TsangerYuMoW01": {
+   "canonical": "ceymw01",
+   "kind": "rename"
+  },
+  "TsangerYuMoW02": {
+   "canonical": "ceymw02",
+   "kind": "rename"
+  },
+  "TsangerYuMoW03": {
+   "canonical": "ceymw03",
+   "kind": "rename"
+  },
+  "TsangerYuMoW04": {
+   "canonical": "ceymw04",
+   "kind": "rename"
+  },
+  "TsangerYuMoW05": {
+   "canonical": "ceymw05",
+   "kind": "rename"
+  },
+  "TsangerYuYangTW01": {
+   "canonical": "ceyytw01",
+   "kind": "rename"
+  },
+  "TsangerYuYangTW02": {
+   "canonical": "ceyytw02",
+   "kind": "rename"
+  },
+  "TsangerYuYangTW03": {
+   "canonical": "ceyytw03",
+   "kind": "rename"
+  },
+  "TsangerYuYangTW04": {
+   "canonical": "ceyytw04",
+   "kind": "rename"
+  },
+  "TsangerYuYangTW05": {
+   "canonical": "ceyytw05",
+   "kind": "rename"
+  },
+  "Twjybbzjs": {
+   "canonical": "jybbzks",
+   "kind": "rename"
+  },
+  "Twjybbzst": {
+   "canonical": "jybbzstun",
+   "kind": "rename"
+  },
+  "Twjybxxmt": {
+   "canonical": "xxmttw",
+   "kind": "rename"
+  },
+  "Twzl": {
+   "canonical": "twzz",
+   "kind": "rename"
+  },
+  "Ubrjp": {
+   "canonical": "ubrjp",
+   "kind": "case"
+  },
+  "Ubss": {
+   "canonical": "wjht",
+   "kind": "rename"
+  },
+  "Unfdzh": {
+   "canonical": "gnuuf",
+   "kind": "rename"
+  },
+  "Urx": {
+   "canonical": "twxxs",
+   "kind": "rename"
+  },
+  "Viroit": {
+   "canonical": "viroit",
+   "kind": "case"
+  },
+  "Vvsa": {
+   "canonical": "vvsa",
+   "kind": "case"
+  },
+  "Waptia": {
+   "canonical": "waptia",
+   "kind": "case"
+  },
+  "Wcsf": {
+   "canonical": "wcsf",
+   "kind": "case"
+  },
+  "Wdxl": {
+   "canonical": "wdxlljp",
+   "kind": "rename"
+  },
+  "Wjm2": {
+   "canonical": "wjstp2",
+   "kind": "rename"
+  },
+  "Wjmp": {
+   "canonical": "wjst",
+   "kind": "rename"
+  },
+  "Wlhxh": {
+   "canonical": "wlyh",
+   "kind": "rename"
+  },
+  "Wlmg2004e": {
+   "canonical": "wlmg2004e",
+   "kind": "case"
+  },
+  "Wlyhjp": {
+   "canonical": "wlyhjp",
+   "kind": "case"
+  },
+  "Wlyhtc": {
+   "canonical": "wlyhtc",
+   "kind": "case"
+  },
+  "Wqydkwmh": {
+   "canonical": "wqydkwmh",
+   "kind": "case"
+  },
+  "Wqydkzh": {
+   "canonical": "wqyzhdk",
+   "kind": "rename"
+  },
+  "Wqys": {
+   "canonical": "wqydzst",
+   "kind": "rename"
+  },
+  "Wqywmh": {
+   "canonical": "wqywmh",
+   "kind": "case"
+  },
+  "Wqyzh": {
+   "canonical": "wqyzht",
+   "kind": "rename"
+  },
+  "WriteRight": {
+   "canonical": "jsbczb",
+   "kind": "rename"
+  },
+  "Wxmst": {
+   "canonical": "wxmst",
+   "kind": "case"
+  },
+  "Wyhk": {
+   "canonical": "wyht",
+   "kind": "rename"
+  },
+  "Wysf": {
+   "canonical": "wyst",
+   "kind": "rename"
+  },
+  "Wyyt": {
+   "canonical": "wyyt",
+   "kind": "case"
+  },
+  "Xanomc": {
+   "canonical": "xanomc",
+   "kind": "case"
+  },
+  "Xccx": {
+   "canonical": "xccxs",
+   "kind": "rename"
+  },
+  "Xcdc": {
+   "canonical": "xcdcs",
+   "kind": "rename"
+  },
+  "Xcdj": {
+   "canonical": "xcdzjt",
+   "kind": "rename"
+  },
+  "Xcdz": {
+   "canonical": "xcdzj",
+   "kind": "rename"
+  },
+  "Xcdzst": {
+   "canonical": "xcdzst",
+   "kind": "case"
+  },
+  "Xcjx": {
+   "canonical": "xcjxs",
+   "kind": "rename"
+  },
+  "Xcks": {
+   "canonical": "xcks",
+   "kind": "case"
+  },
+  "Xcld": {
+   "canonical": "xcldh",
+   "kind": "rename"
+  },
+  "Xcmdk": {
+   "canonical": "xcmdk",
+   "kind": "case"
+  },
+  "Xczzsch": {
+   "canonical": "xczzsch",
+   "kind": "case"
+  },
+  "Xdks": {
+   "canonical": "xdks",
+   "kind": "case"
+  },
+  "Xet": {
+   "canonical": "xet",
+   "kind": "case"
+  },
+  "XiaolaiMonoSC": {
+   "canonical": "xlztdksc",
+   "kind": "rename"
+  },
+  "XiaolaiSC": {
+   "canonical": "xlztsc",
+   "kind": "rename"
+  },
+  "Xieyit": {
+   "canonical": "xieyit",
+   "kind": "case"
+  },
+  "Xlfht": {
+   "canonical": "xlfht",
+   "kind": "case"
+  },
+  "Xlztjp": {
+   "canonical": "xlztjp",
+   "kind": "case"
+  },
+  "Xrzmt": {
+   "canonical": "xrzmt",
+   "kind": "case"
+  },
+  "Xsong": {
+   "canonical": "xstes",
+   "kind": "rename"
+  },
+  "Xsslv": {
+   "canonical": "xsszt",
+   "kind": "rename"
+  },
+  "Xstq": {
+   "canonical": "xstqj",
+   "kind": "rename"
+  },
+  "Xstqjpy": {
+   "canonical": "xstqjpy",
+   "kind": "case"
+  },
+  "Xstqjpz": {
+   "canonical": "xstqjpz",
+   "kind": "case"
+  },
+  "Xstqjzy": {
+   "canonical": "xstqjzy",
+   "kind": "case"
+  },
+  "Xwbright": {
+   "canonical": "xwwkb",
+   "kind": "rename"
+  },
+  "Xwbrightcode": {
+   "canonical": "xwwkbc",
+   "kind": "rename"
+  },
+  "Xwmh": {
+   "canonical": "xwmh",
+   "kind": "case"
+  },
+  "Xwmxs": {
+   "canonical": "xwmxs",
+   "kind": "case"
+  },
+  "Xwmxscl": {
+   "canonical": "xwmxscl",
+   "kind": "case"
+  },
+  "Xwmxsmn": {
+   "canonical": "xwmxsmn",
+   "kind": "case"
+  },
+  "Xwszh": {
+   "canonical": "xwszh",
+   "kind": "case"
+  },
+  "Xwszhcl": {
+   "canonical": "xwszhcl",
+   "kind": "case"
+  },
+  "Xwszhmn": {
+   "canonical": "xwszhmn",
+   "kind": "case"
+  },
+  "Xwwk": {
+   "canonical": "xwwk",
+   "kind": "case"
+  },
+  "Xwwkdk": {
+   "canonical": "xwwkdk",
+   "kind": "case"
+  },
+  "Xwwkdktc": {
+   "canonical": "xwwkdktc",
+   "kind": "case"
+  },
+  "Xwwkgb": {
+   "canonical": "xwwkgb",
+   "kind": "case"
+  },
+  "Xwwktc": {
+   "canonical": "xwwktc",
+   "kind": "case"
+  },
+  "Xwxhcl": {
+   "canonical": "xwxhcl",
+   "kind": "case"
+  },
+  "Xwxhmn": {
+   "canonical": "xwxhmn",
+   "kind": "case"
+  },
+  "Xwxxh": {
+   "canonical": "xwxxh",
+   "kind": "case"
+  },
+  "Xwxxhcode": {
+   "canonical": "xwxxhc",
+   "kind": "rename"
+  },
+  "Xwxxhplus": {
+   "canonical": "xwxxhp",
+   "kind": "rename"
+  },
+  "Xwxxhscreen": {
+   "canonical": "xwxxhs",
+   "kind": "rename"
+  },
+  "Xwxxhscreenfull": {
+   "canonical": "xwxxhsf",
+   "kind": "rename"
+  },
+  "Xwxzs": {
+   "canonical": "xwxzs",
+   "kind": "case"
+  },
+  "Xwxzsplus": {
+   "canonical": "xwxzsp",
+   "kind": "rename"
+  },
+  "Xwxzsscreen": {
+   "canonical": "xwxzss",
+   "kind": "rename"
+  },
+  "Xwxzsscreenfull": {
+   "canonical": "xwxzssf",
+   "kind": "rename"
+  },
+  "Xwzkgb": {
+   "canonical": "xwzk",
+   "kind": "rename"
+  },
+  "Xwzksgb": {
+   "canonical": "xwzks",
+   "kind": "rename"
+  },
+  "Xwzscl": {
+   "canonical": "xwzscl",
+   "kind": "case"
+  },
+  "Xwzsmn": {
+   "canonical": "xwzsmn",
+   "kind": "case"
+  },
+  "Xwzt": {
+   "canonical": "xwzt",
+   "kind": "case"
+  },
+  "Xxzt": {
+   "canonical": "xzt",
+   "kind": "rename"
+  },
+  "Xyt": {
+   "canonical": "xyt",
+   "kind": "case"
+  },
+  "Xyygn": {
+   "canonical": "xyygn",
+   "kind": "case"
+  },
+  "Xzxst": {
+   "canonical": "xzxst",
+   "kind": "case"
+  },
+  "Ydwbnnsp": {
+   "canonical": "ydwxjhxt",
+   "kind": "rename"
+  },
+  "Yffyt": {
+   "canonical": "yffyt",
+   "kind": "case"
+  },
+  "Yflxt": {
+   "canonical": "yflxt",
+   "kind": "case"
+  },
+  "Yiny": {
+   "canonical": "yyhtgng",
+   "kind": "rename"
+  },
+  "Yjbkjp": {
+   "canonical": "yjbkjp",
+   "kind": "case"
+  },
+  "Yjmct": {
+   "canonical": "yjmc",
+   "kind": "rename"
+  },
+  "Yjmjp": {
+   "canonical": "yjmjp",
+   "kind": "case"
+  },
+  "Yjsu": {
+   "canonical": "yzst",
+   "kind": "rename"
+  },
+  "Ylmcp": {
+   "canonical": "ylmcp",
+   "kind": "case"
+  },
+  "Ylmt": {
+   "canonical": "ylmt",
+   "kind": "case"
+  },
+  "Ylzym": {
+   "canonical": "ylzym",
+   "kind": "case"
+  },
+  "Ymgjp": {
+   "canonical": "ymgjp",
+   "kind": "case"
+  },
+  "Yozai": {
+   "canonical": "yzztyz",
+   "kind": "rename"
+  },
+  "Yozf": {
+   "canonical": "yofjp",
+   "kind": "rename"
+  },
+  "Yqht": {
+   "canonical": "yqht",
+   "kind": "case"
+  },
+  "Yqhtd": {
+   "canonical": "yqhtd",
+   "kind": "case"
+  },
+  "Yqhtjp": {
+   "canonical": "yqhtjp",
+   "kind": "case"
+  },
+  "Yqhtpjp": {
+   "canonical": "yqhtpjp",
+   "kind": "case"
+  },
+  "Yqmcp": {
+   "canonical": "yqmcp",
+   "kind": "case"
+  },
+  "Yqmt": {
+   "canonical": "yqmt",
+   "kind": "case"
+  },
+  "Yqmtd": {
+   "canonical": "yqmtd",
+   "kind": "case"
+  },
+  "Yqt": {
+   "canonical": "yqt",
+   "kind": "case"
+  },
+  "Yqttc": {
+   "canonical": "yqttc",
+   "kind": "case"
+  },
+  "Yqyk": {
+   "canonical": "yqyk",
+   "kind": "case"
+  },
+  "Yqyt": {
+   "canonical": "yqyt",
+   "kind": "case"
+  },
+  "Yqytd": {
+   "canonical": "yqytd",
+   "kind": "case"
+  },
+  "Yqzyy": {
+   "canonical": "yqzyy",
+   "kind": "case"
+  },
+  "Yrdzst": {
+   "canonical": "yrdzst",
+   "kind": "case"
+  },
+  "Ysbs": {
+   "canonical": "ysbs",
+   "kind": "case"
+  },
+  "Ysbth": {
+   "canonical": "ysbth",
+   "kind": "case"
+  },
+  "Ysbzt": {
+   "canonical": "ysbzt",
+   "kind": "case"
+  },
+  "Ysht": {
+   "canonical": "ysht",
+   "kind": "case"
+  },
+  "Yshtd": {
+   "canonical": "yshtd",
+   "kind": "case"
+  },
+  "Ysmct": {
+   "canonical": "ysmct",
+   "kind": "case"
+  },
+  "Ysui": {
+   "canonical": "ysls",
+   "kind": "rename"
+  },
+  "Ysxh": {
+   "canonical": "ysxhts",
+   "kind": "rename"
+  },
+  "Ysymc": {
+   "canonical": "ysymc",
+   "kind": "case"
+  },
+  "Yszyh": {
+   "canonical": "yszyh",
+   "kind": "case"
+  },
+  "Ytmtmc": {
+   "canonical": "ytmtmc",
+   "kind": "case"
+  },
+  "Yugjp": {
+   "canonical": "yugjp",
+   "kind": "case"
+  },
+  "Yunmt": {
+   "canonical": "yymttw",
+   "kind": "rename"
+  },
+  "Yuseimagic": {
+   "canonical": "ysmjp",
+   "kind": "rename"
+  },
+  "Yutcc": {
+   "canonical": "yutcc",
+   "kind": "case"
+  },
+  "Yutcd": {
+   "canonical": "yutcd",
+   "kind": "case"
+  },
+  "Yuzl": {
+   "canonical": "yzzyp",
+   "kind": "rename"
+  },
+  "Ywtq": {
+   "canonical": "ywtq",
+   "kind": "case"
+  },
+  "Yxkt": {
+   "canonical": "yxkt",
+   "kind": "case"
+  },
+  "Yyaga": {
+   "canonical": "yyaga",
+   "kind": "case"
+  },
+  "Yydq": {
+   "canonical": "yfdqs",
+   "kind": "rename"
+  },
+  "Yyht": {
+   "canonical": "yyht",
+   "kind": "case"
+  },
+  "Yyhtgeg": {
+   "canonical": "yyhtgeg",
+   "kind": "case"
+  },
+  "Yymcpgwm": {
+   "canonical": "yymcpgwm",
+   "kind": "case"
+  },
+  "Yymcpgym": {
+   "canonical": "yymcpgym",
+   "kind": "case"
+  },
+  "Yymt": {
+   "canonical": "yymt",
+   "kind": "case"
+  },
+  "Yynht": {
+   "canonical": "yynht",
+   "kind": "case"
+  },
+  "Yytkm": {
+   "canonical": "yytkm",
+   "kind": "case"
+  },
+  "Yytyy": {
+   "canonical": "yytyy",
+   "kind": "case"
+  },
+  "Yyxl": {
+   "canonical": "yfxl",
+   "kind": "rename"
+  },
+  "Yyxmc": {
+   "canonical": "yyxmc",
+   "kind": "case"
+  },
+  "Yyxy": {
+   "canonical": "yfxy",
+   "kind": "rename"
+  },
+  "Yyzs": {
+   "canonical": "yfzs",
+   "kind": "rename"
+  },
+  "Yyzybgm": {
+   "canonical": "yyzybgm",
+   "kind": "case"
+  },
+  "Yyzyh": {
+   "canonical": "yyzyh",
+   "kind": "case"
+  },
+  "Yyzym": {
+   "canonical": "yyzym",
+   "kind": "case"
+  },
+  "Yzklct": {
+   "canonical": "lct",
+   "kind": "rename"
+  },
+  "Zbds12": {
+   "canonical": "zbds12",
+   "kind": "case"
+  },
+  "Zcfs": {
+   "canonical": "zcfs",
+   "kind": "case"
+  },
+  "Zcgxt": {
+   "canonical": "zcgxt",
+   "kind": "case"
+  },
+  "Zdht": {
+   "canonical": "zdht",
+   "kind": "case"
+  },
+  "Zdicqx": {
+   "canonical": "hdqxwzt",
+   "kind": "rename"
+  },
+  "Zenantique": {
+   "canonical": "zenajp",
+   "kind": "rename"
+  },
+  "Zenantiquesoft": {
+   "canonical": "zasjp",
+   "kind": "rename"
+  },
+  "Zenkakuantique": {
+   "canonical": "zkgajp",
+   "kind": "rename"
+  },
+  "Zenkakunew": {
+   "canonical": "zkgnjp",
+   "kind": "rename"
+  },
+  "Zenkurenaido": {
+   "canonical": "zenkjp",
+   "kind": "rename"
+  },
+  "Zenmaru": {
+   "canonical": "zmgjp",
+   "kind": "rename"
+  },
+  "Zenoldmincho": {
+   "canonical": "zomjp",
+   "kind": "rename"
+  },
+  "Zgdh": {
+   "canonical": "zgdh",
+   "kind": "case"
+  },
+  "Zglht": {
+   "canonical": "zglht",
+   "kind": "case"
+  },
+  "Zhbtt": {
+   "canonical": "zhbtt",
+   "kind": "case"
+  },
+  "Zhfy": {
+   "canonical": "zhfy",
+   "kind": "case"
+  },
+  "Zht": {
+   "canonical": "zht",
+   "kind": "case"
+  },
+  "Zhzybk": {
+   "canonical": "zhzybk",
+   "kind": "case"
+  },
+  "Zhzyh": {
+   "canonical": "zhzyh",
+   "kind": "case"
+  },
+  "Zhzys": {
+   "canonical": "zhzys",
+   "kind": "case"
+  },
+  "Zjgljt": {
+   "canonical": "zjgljt",
+   "kind": "case"
+  },
+  "Zjmc": {
+   "canonical": "zjmc",
+   "kind": "case"
+  },
+  "Zkgdht": {
+   "canonical": "zkgdh",
+   "kind": "rename"
+  },
+  "Zkkht": {
+   "canonical": "zkkh",
+   "kind": "rename"
+  },
+  "Zkklt": {
+   "canonical": "zkklt",
+   "kind": "case"
+  },
+  "Zkwyt": {
+   "canonical": "zkwyt",
+   "kind": "case"
+  },
+  "Zkxwt": {
+   "canonical": "zkxwt",
+   "kind": "case"
+  },
+  "Zlcsjt": {
+   "canonical": "zlcsjt",
+   "kind": "case"
+  },
+  "Zlhc": {
+   "canonical": "zldzhk",
+   "kind": "rename"
+  },
+  "Zljp": {
+   "canonical": "zldzjp",
+   "kind": "rename"
+  },
+  "Zlmyz": {
+   "canonical": "zlmyz",
+   "kind": "case"
+  },
+  "Zlrp12": {
+   "canonical": "zlyxs12",
+   "kind": "rename"
+  },
+  "Zlrp16": {
+   "canonical": "zlyxs16",
+   "kind": "rename"
+  },
+  "Zlx12": {
+   "canonical": "zlxs12",
+   "kind": "rename"
+  },
+  "Zmxs": {
+   "canonical": "zmxs",
+   "kind": "case"
+  },
+  "Zqfs": {
+   "canonical": "zqfs",
+   "kind": "case"
+  },
+  "Zqkhyt": {
+   "canonical": "zqkhyt",
+   "kind": "case"
+  },
+  "Zsngwls": {
+   "canonical": "zsngwls",
+   "kind": "case"
+  },
+  "Ztqxyjxs": {
+   "canonical": "ztqxyjxs",
+   "kind": "case"
+  },
+  "Zwxszt": {
+   "canonical": "mhzk12",
+   "kind": "rename"
+  },
+  "Zyfy": {
+   "canonical": "zyfy",
+   "kind": "case"
+  },
+  "Zyht": {
+   "canonical": "zyht",
+   "kind": "case"
+  },
+  "Zyss": {
+   "canonical": "zysst",
+   "kind": "rename"
+  },
+  "Zyst": {
+   "canonical": "zyst",
+   "kind": "case"
+  },
+  "Zyys": {
+   "canonical": "zyys",
+   "kind": "case"
+  },
+  "Zyyt": {
+   "canonical": "zyyt",
+   "kind": "case"
+  },
+  "Zyytrhr": {
+   "canonical": "zyytrhr",
+   "kind": "case"
+  },
+  "Zyzyjp": {
+   "canonical": "zyzyjp",
+   "kind": "case"
+  },
+  "Zzft": {
+   "canonical": "zzjftt",
+   "kind": "rename"
+  },
+  "Zzmk": {
+   "canonical": "zzjmkb",
+   "kind": "rename"
+  },
+  "Zzzd": {
+   "canonical": "zzjzdb",
+   "kind": "rename"
+  },
+  "hlxzt": {
+   "canonical": "hlxztqct",
+   "kind": "rename"
+  }
+ },
+ "generated": "2026-11-18",
+ "note": "licenses/ 目录名是历史 normalized（CamelCase 旧值或大小写变体）。canonical 是 fonts-front data/fonts.json 当前 normalized（小写店面短码）。kind=case 仅大小写差异；kind=rename 是 2026-10-07 短码迁移改过名；canonical=null 表示不在当前目录，按归档处理。新条目直接用 canonical 小写建目录，不要再用旧名。",
+ "unmatched": [
+  "Bdswt",
+  "Cbds12",
+  "Clcalli",
+  "Clduan",
+  "Clmb",
+  "Ddxty",
+  "EqHiSans",
+  "Hcjz",
+  "HongleiBanshu",
+  "HongleiBanshuFormal",
+  "HongleiXiaozhitiao",
+  "HongleiXingshu",
+  "HongleiZhuoshu",
+  "HowlingEqHiSans",
+  "IPAmjMincho",
+  "Kslmt",
+  "Light",
+  "Longcang",
+  "MizukiGothic",
+  "MplusRounded1c",
+  "NaHei",
+  "Qtqmt",
+  "Rofs",
+  "RtpxArcade",
+  "RtpxCute",
+  "RtpxPetty",
+  "RtpxThick",
+  "SmartFontUI",
+  "Syhttc",
+  "Xcdz2",
+  "Xczz",
+  "YShiMincho",
+  "YShiNewHei",
+  "YShiPenShuti",
+  "YShiWritten",
+  "YshiYuanMinh",
+  "YuuGothic",
+  "Zhaizaijia",
+  "ZoomlaCusong",
+  "ZoomlaMengyas",
+  "x10y12dd",
+  "x12y12mh",
+  "x12y12mm",
+  "x12y12mn",
+  "x12y16ll",
+  "x12y16mo",
+  "x12y16sl",
+  "x12y20sc",
+  "x14y20sd",
+  "x14y24hd",
+  "x16y32gg",
+  "x5y8nc",
+  "x5y8nt",
+  "x8y12sg"
+ ]
+}
