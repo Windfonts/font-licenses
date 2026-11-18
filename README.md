@@ -6,32 +6,42 @@
 
 ```
 licenses/
-  {NormalizedName}/
-    LICENSE            # 授权协议原文
+  {norm}/
+    LICENSE            # 授权协议原文（有原文才有）
     license-info.json  # 结构化授权信息
 schemas/
-  license-info.schema.json
-index.json             # 所有字体授权索引
+  license-info.schema.json   # 字段真源
 ```
+
+目录名与 vault `normalizedName` 一致：历史条目是 CamelCase（`Yymcpgwm`），2026-10-07 迁移后的新条目是店面短码小写（`851ckrdzyk`），两套并存、未做 alias 标注。仓内没有 `index.json`；全量清单以各目录 `license-info.json` 为准。
 
 ## license-info.json 字段
 
+字段真源是 `schemas/license-info.schema.json`，实际键为 camelCase：
+
 | 字段 | 类型 | 说明 |
 |------|------|------|
-| normalized_name | string | 字体唯一标识 |
-| license_type | string | 授权类型（见下） |
-| license_spdx | string | SPDX 标识符（如 OFL-1.1、Apache-2.0） |
-| license_url | string | 授权协议原文 URL |
-| commercial_use | boolean | 是否允许商用 |
-| modification | boolean | 是否允许修改 |
-| distribution | boolean | 是否允许分发 |
-| attribution_required | boolean | 是否需要署名 |
-| purchase_url | string | 购买/授权链接（付费字体） |
-| notes | string | 补充说明 |
-| verified | boolean | 是否人工核实 |
-| verified_at | string | 核实日期 |
+| normalizedName | string | 字体唯一标识（目录名） |
+| type | string | 授权类型（中文分类，见下） |
+| licenseName | string | 授权协议名 |
+| spdx | string\|null | SPDX 标识符（如 OFL-1.1、Apache-2.0） |
+| licenseUrl | string\|null | 授权协议原文 URL |
+| licenseFile | string\|null | 本仓库内授权文件路径 |
+| commercial | boolean | 是否允许商用 |
+| modification | boolean\|null | 是否允许修改 |
+| distribution | boolean\|null | 是否允许再分发 |
+| embedding | boolean\|null | 是否允许嵌入文档/应用 |
+| webUse | boolean\|null | 是否允许 Web 字体使用（@font-face） |
+| attribution | boolean\|null | 是否需要署名 |
+| shareAlike | boolean\|null | 是否要求衍生作品同协议 |
+| purchaseUrl | string\|null | 购买/授权链接（付费字体） |
+| price | number\|null | 授权价格（人民币） |
+| notes | string\|null | 补充说明 |
+| verified | boolean | 是否人工核实（false = AI 生成待核实） |
+| verifiedAt / verifiedBy | string\|null | 核实日期 / 核实人 |
+| source | string\|null | 授权信息来源 |
 
-## 授权类型（license_type）
+## 授权类型（type）
 
 | 类型 | 说明 |
 |------|------|
@@ -50,8 +60,9 @@ index.json             # 所有字体授权索引
 
 ## 关联仓库
 
-- `font-metadata` → 字体基本信息（通过 normalized_name 关联）
-- `font-foundries` → 厂商授权政策
+- `fonts-vault` → 字体库 `fonts` 表（`normalizedName` 关联；vault 的 `license-*` 字段是分发侧结构化许可，回流同步约定见审计报告 #14）
+- `font-foundries` → 厂商档案（`foundry` 字段关联）
+- `fonts-front` → 店面目录（`normalized` 小写即 OSS 包目录）
 
 ## 2026-09-24 OSS 核对
 
