@@ -15,6 +15,13 @@ schemas/
 
 目录名是历史 `normalizedName`：绝大多数是 CamelCase 旧值（`Ibmps`、`Xwbright`），2026-10-07 短码迁移后的新条目是店面短码小写（`851ckrdzyk`）。新条目直接用 canonical 小写 normalized 建目录。旧目录到 canonical 的对照在 `data/dir-aliases.json`（764 条：`case` 仅大小写差异、`rename` 是短码迁移改名；`unmatched` 54 条不在当前目录，按归档处理）。仓内没有 `index.json`；全量清单以各目录 `license-info.json` 为准。
 
+## 与 vault 的同步约定
+
+- 本仓是许可原文与结构化许可信息的归档真源；vault `fonts` 表的 license/spdx/cssAllowed 是运行时消费的投影，两边字段名不同不互相覆盖。
+- vault 侧完成人工核实（license-index verified）后，把 `verified`/`verifiedAt`/`verifiedBy`/`spdx`/`licenseUrl` 回写本仓对应 `license-info.json`；回写以 vault 核实结果为准，本仓不反向改 vault。
+- 目录名对照见 `data/dir-aliases.json`：查 vault `normalizedName` 时先按 canonical 小写找，没有再查 aliases 的 `canonical` 反查旧目录。
+- 新字体入库顺序：先建 `licenses/{canonical小写}/`（LICENSE + license-info.json），再让 vault 收录；不要用旧 CamelCase 建新目录。
+
 ## license-info.json 字段
 
 字段真源是 `schemas/license-info.schema.json`，实际键为 camelCase：
