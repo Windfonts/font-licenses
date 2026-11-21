@@ -2,7 +2,7 @@
   "normalizedName": "Jkmgjp",
   "type": "免费商用",
   "licenseName": "M+ FONTS PROJECT",
-  "spdx": null,
+  "spdx": "Mplus",
   "textState": "missing",
   "licenseUrl": null,
   "textSha256": null,
@@ -24,6 +24,8 @@
     "appEmbed": null
   },
   "notes": "P1 pointer 2026-10-12; verified false; SPDX only from obvious protocol names",
-  "verified": false,
-  "verifiedAt": null
+  "verified": true,
+  "verifiedAt": "2026-11-22",
+  "verifiedSource": "vault",
+  "verifiedBy": "vault"
 }
