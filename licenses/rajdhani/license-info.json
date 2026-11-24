@@ -1,0 +1,17 @@
+{
+  "fontName": "Rajdhani",
+  "englishName": "Rajdhani",
+  "family": "wenfeng-rajdhani",
+  "normalized": "rajdhani",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/itfoundry/rajdhani/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Indian Type Foundry",
+  "designer": "Shiva Nallaperumal, Indian Type Foundry",
+  "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

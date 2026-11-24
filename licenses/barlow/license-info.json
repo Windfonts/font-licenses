@@ -1,0 +1,17 @@
+{
+  "fontName": "Barlow",
+  "englishName": "Barlow",
+  "family": "wenfeng-barlow",
+  "normalized": "barlow",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/jpt/barlow/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Jeremy Tribby",
+  "designer": "Jeremy Tribby",
+  "copyright": "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

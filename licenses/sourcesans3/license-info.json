@@ -1,0 +1,17 @@
+{
+  "fontName": "Source Sans 3",
+  "englishName": "Source Sans 3",
+  "family": "wenfeng-sourcesans3",
+  "normalized": "sourcesans3",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/adobe-fonts/source-sans/blob/release/LICENSE.md",
+  "source": "google-fonts-curated",
+  "foundry": "Adobe",
+  "designer": "Paul D. Hunt",
+  "copyright": "© 2023 Adobe (http://www.adobe.com/), with Reserved Font Name ‘Source’",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

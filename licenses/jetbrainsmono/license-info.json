@@ -1,0 +1,17 @@
+{
+  "fontName": "JetBrains Mono",
+  "englishName": "JetBrains Mono",
+  "family": "wenfeng-jetbrainsmono",
+  "normalized": "jetbrainsmono",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/JetBrains/JetBrainsMono/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "JetBrains",
+  "designer": "Philipp Nurullin",
+  "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

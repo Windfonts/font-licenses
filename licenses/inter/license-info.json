@@ -1,0 +1,17 @@
+{
+  "fontName": "Inter",
+  "englishName": "Inter",
+  "family": "wenfeng-inter",
+  "normalized": "inter",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/rsms/inter/blob/master/LICENSE.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Rasmus Andersson",
+  "designer": "Rasmus Andersson",
+  "copyright": "Copyright 2016 The Inter Project Authors (https://github.com/rsms/inter)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

@@ -1,0 +1,17 @@
+{
+  "fontName": "Fira Code",
+  "englishName": "Fira Code",
+  "family": "wenfeng-firacode",
+  "normalized": "firacode",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/tonsky/FiraCode/blob/master/LICENSE",
+  "source": "google-fonts-curated",
+  "foundry": "Nikita Prokopov",
+  "designer": "Nikita Prokopov",
+  "copyright": "Copyright 2014-2020 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

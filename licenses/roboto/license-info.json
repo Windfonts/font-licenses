@@ -1,0 +1,17 @@
+{
+  "fontName": "Roboto",
+  "englishName": "Roboto",
+  "family": "wenfeng-roboto",
+  "normalized": "roboto",
+  "license": "Apache License 2.0",
+  "spdx": "Apache-2.0",
+  "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+  "source": "google-fonts-curated",
+  "foundry": "Google",
+  "designer": "Christian Robertson",
+  "copyright": "Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

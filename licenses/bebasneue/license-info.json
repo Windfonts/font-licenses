@@ -1,0 +1,17 @@
+{
+  "fontName": "Bebas Neue",
+  "englishName": "Bebas Neue",
+  "family": "wenfeng-bebasneue",
+  "normalized": "bebasneue",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/dharmatype/Bebas-Neue/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Dharma Type",
+  "designer": "Ryoichi Tsunekawa",
+  "copyright": "Copyright 2019 The Bebas Neue Project Authors (https://github.com/dharmatype/Bebas-Neue)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

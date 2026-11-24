@@ -1,0 +1,17 @@
+{
+  "fontName": "Caveat",
+  "englishName": "Caveat",
+  "family": "wenfeng-caveat",
+  "normalized": "caveat",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/caveat/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Impallari Type",
+  "designer": "Pablo Impallari",
+  "copyright": "Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

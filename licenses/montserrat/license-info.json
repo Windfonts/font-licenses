@@ -1,0 +1,17 @@
+{
+  "fontName": "Montserrat",
+  "englishName": "Montserrat",
+  "family": "wenfeng-montserrat",
+  "normalized": "montserrat",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/JulietaUla/Montserrat/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Julieta Ulanovsky",
+  "designer": "Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral",
+  "copyright": "Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

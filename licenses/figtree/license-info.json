@@ -1,0 +1,17 @@
+{
+  "fontName": "Figtree",
+  "englishName": "Figtree",
+  "family": "wenfeng-figtree",
+  "normalized": "figtree",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/erikdkennedy/figtree/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Erik Kennedy",
+  "designer": "Erik Kennedy",
+  "copyright": "Copyright 2022 The Figtree Project Authors (https://github.com/erikdkennedy/figtree)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

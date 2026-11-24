@@ -1,0 +1,17 @@
+{
+  "fontName": "Open Sans",
+  "englishName": "Open Sans",
+  "family": "wenfeng-opensans",
+  "normalized": "opensans",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/opensans/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Ascender Fonts",
+  "designer": "Steve Matteson",
+  "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

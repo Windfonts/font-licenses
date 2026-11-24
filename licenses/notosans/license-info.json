@@ -1,0 +1,17 @@
+{
+  "fontName": "Noto Sans",
+  "englishName": "Noto Sans",
+  "family": "wenfeng-notosans",
+  "normalized": "notosans",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/notofonts/latin-greek-cyrillic/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Google",
+  "designer": "Google, Monotype",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

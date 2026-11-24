@@ -1,0 +1,17 @@
+{
+  "fontName": "Cascadia Code",
+  "englishName": "Cascadia Code",
+  "family": "wenfeng-cascadiacode",
+  "normalized": "cascadiacode",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/microsoft/cascadia-code/blob/main/LICENSE",
+  "source": "google-fonts-curated",
+  "foundry": "Microsoft",
+  "designer": "Aaron Bell",
+  "copyright": "© 2021 Microsoft Corporation. All Rights Reserved.",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

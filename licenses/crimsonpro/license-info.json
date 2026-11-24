@@ -1,0 +1,17 @@
+{
+  "fontName": "Crimson Pro",
+  "englishName": "Crimson Pro",
+  "family": "wenfeng-crimsonpro",
+  "normalized": "crimsonpro",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Fonthausen/CrimsonPro/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Fonthausen",
+  "designer": "Jacques Le Bailly, Sebastian Kosch",
+  "copyright": "Copyright 2018 The Crimson Pro Project Authors (https://github.com/Fonthausen/CrimsonPro)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

@@ -1,0 +1,17 @@
+{
+  "fontName": "Manrope",
+  "englishName": "Manrope",
+  "family": "wenfeng-manrope",
+  "normalized": "manrope",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/sharanda/manrope/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Mikhail Sharanda",
+  "designer": "Mikhail Sharanda, Mirko Velimirovic",
+  "copyright": "Copyright 2019 The Manrope Project Authors (https://github.com/googlefonts/manrope)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

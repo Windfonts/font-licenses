@@ -1,0 +1,17 @@
+{
+  "fontName": "Fraunces",
+  "englishName": "Fraunces",
+  "family": "wenfeng-fraunces",
+  "normalized": "fraunces",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/undercasetype/Fraunces/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Undercase Type",
+  "designer": "Phaedra Charles, Flavia Zimbardi",
+  "copyright": "Copyright 2020 The Fraunces Project Authors (github.com/undercasetype/Fraunces)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

@@ -1,0 +1,17 @@
+{
+  "fontName": "Sora",
+  "englishName": "Sora",
+  "family": "wenfeng-sora",
+  "normalized": "sora",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/sora-xor/sora-font/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Barnbrook",
+  "designer": "Jonathan Barnbrook, Julián Moncada",
+  "copyright": "Copyright 2019 The Sora Project Authors (https://github.com/sora-xor/sora-font)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

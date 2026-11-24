@@ -1,0 +1,17 @@
+{
+  "fontName": "Anton",
+  "englishName": "Anton",
+  "family": "wenfeng-anton",
+  "normalized": "anton",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/AntonFont/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Vernon Adams",
+  "designer": "Vernon Adams",
+  "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

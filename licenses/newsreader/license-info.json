@@ -1,0 +1,17 @@
+{
+  "fontName": "Newsreader",
+  "englishName": "Newsreader",
+  "family": "wenfeng-newsreader",
+  "normalized": "newsreader",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/productiontype/Newsreader/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Production Type",
+  "designer": "Production Type",
+  "copyright": "Copyright 2020 The Newsreader Project Authors (http://github.com/productiontype/Newsreader)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

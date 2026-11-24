@@ -1,0 +1,17 @@
+{
+  "fontName": "Public Sans",
+  "englishName": "Public Sans",
+  "family": "wenfeng-publicsans",
+  "normalized": "publicsans",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/uswds/public-sans/blob/develop/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "USWDS",
+  "designer": "Dan O. Williams, Pablo Impallari, Rodrigo Fuenzalida",
+  "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

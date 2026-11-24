@@ -1,0 +1,17 @@
+{
+  "fontName": "Space Grotesk",
+  "englishName": "Space Grotesk",
+  "family": "wenfeng-spacegrotesk",
+  "normalized": "spacegrotesk",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/floriankarsten/space-grotesk/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Florian Karsten",
+  "designer": "Florian Karsten",
+  "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

@@ -1,0 +1,17 @@
+{
+  "fontName": "DM Sans",
+  "englishName": "DM Sans",
+  "family": "wenfeng-dmsans",
+  "normalized": "dmsans",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/dm-fonts/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Colophon Foundry",
+  "designer": "Colophon Foundry, Jonny Pinhorn",
+  "copyright": "Copyright 2014 The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

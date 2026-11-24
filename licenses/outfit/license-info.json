@@ -1,0 +1,17 @@
+{
+  "fontName": "Outfit",
+  "englishName": "Outfit",
+  "family": "wenfeng-outfit",
+  "normalized": "outfit",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Outfitio/Outfit-Fonts/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Outfit.io",
+  "designer": "Rodrigo Fuenzalida",
+  "copyright": "Copyright 2021 The Outfit Project Authors (https://github.com/Outfitio/Outfit-Fonts)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

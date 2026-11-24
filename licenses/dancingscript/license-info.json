@@ -1,0 +1,17 @@
+{
+  "fontName": "Dancing Script",
+  "englishName": "Dancing Script",
+  "family": "wenfeng-dancingscript",
+  "normalized": "dancingscript",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/impallari/DancingScript/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Impallari Type",
+  "designer": "Pablo Impallari",
+  "copyright": "Copyright 2016 The Dancing Script Project Authors (https://github.com/googlefonts/DancingScript), with Reserved Font Name \"Dancing Script\".",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

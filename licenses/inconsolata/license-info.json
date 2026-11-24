@@ -1,0 +1,17 @@
+{
+  "fontName": "Inconsolata",
+  "englishName": "Inconsolata",
+  "family": "wenfeng-inconsolata",
+  "normalized": "inconsolata",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/Inconsolata/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Raph Levien",
+  "designer": "Raph Levien",
+  "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

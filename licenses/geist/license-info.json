@@ -1,0 +1,17 @@
+{
+  "fontName": "Geist",
+  "englishName": "Geist",
+  "family": "wenfeng-geist",
+  "normalized": "geist",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/vercel/geist-font/blob/main/LICENSE.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Vercel",
+  "designer": "Vercel, Basement Studio",
+  "copyright": "Copyright 2024 The Geist Project Authors (https://github.com/vercel/geist-font)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

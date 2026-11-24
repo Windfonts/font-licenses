@@ -1,0 +1,17 @@
+{
+  "fontName": "Oswald",
+  "englishName": "Oswald",
+  "family": "wenfeng-oswald",
+  "normalized": "oswald",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/OswaldFont/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Vernon Adams",
+  "designer": "Vernon Adams, Kalapi Gajjar, Cyreal",
+  "copyright": "Copyright 2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

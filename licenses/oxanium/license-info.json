@@ -1,0 +1,17 @@
+{
+  "fontName": "Oxanium",
+  "englishName": "Oxanium",
+  "family": "wenfeng-oxanium",
+  "normalized": "oxanium",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/sevmeyer/oxanium/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Severin Meyer",
+  "designer": "Severin Meyer",
+  "copyright": "Copyright 2019 The Oxanium Project Authors (https://github.com/sevmeyer/oxanium)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

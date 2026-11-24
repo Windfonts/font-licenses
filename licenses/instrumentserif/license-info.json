@@ -1,0 +1,17 @@
+{
+  "fontName": "Instrument Serif",
+  "englishName": "Instrument Serif",
+  "family": "wenfeng-instrumentserif",
+  "normalized": "instrumentserif",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Instrument/instrument-serif/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Instrument",
+  "designer": "Rodrigo Fuenzalida, Jordan Egstad",
+  "copyright": "Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

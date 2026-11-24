@@ -1,0 +1,17 @@
+{
+  "fontName": "Lexend",
+  "englishName": "Lexend",
+  "family": "wenfeng-lexend",
+  "normalized": "lexend",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/lexend/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Thomas Jockin",
+  "designer": "Bonnie Shaver-Troup, Thomas Jockin",
+  "copyright": "Copyright 2019 The Lexend Project Authors (https://github.com/googlefonts/lexend)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

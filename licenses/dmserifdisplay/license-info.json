@@ -1,0 +1,17 @@
+{
+  "fontName": "DM Serif Display",
+  "englishName": "DM Serif Display",
+  "family": "wenfeng-dmserifdisplay",
+  "normalized": "dmserifdisplay",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/dm-fonts/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Colophon Foundry",
+  "designer": "Colophon Foundry, Frank Grießhammer",
+  "copyright": "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

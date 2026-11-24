@@ -1,0 +1,17 @@
+{
+  "fontName": "Archivo",
+  "englishName": "Archivo",
+  "family": "wenfeng-archivo",
+  "normalized": "archivo",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/Omnibus-Type/Archivo/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Omnibus-Type",
+  "designer": "Héctor Gatti, Omnibus-Type",
+  "copyright": "Copyright 2020 The Archivo Project Authors (https://github.com/Omnibus-Type/Archivo)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

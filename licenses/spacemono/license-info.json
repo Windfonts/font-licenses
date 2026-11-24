@@ -1,0 +1,17 @@
+{
+  "fontName": "Space Mono",
+  "englishName": "Space Mono",
+  "family": "wenfeng-spacemono",
+  "normalized": "spacemono",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/spacemono/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Colophon Foundry",
+  "designer": "Colophon Foundry",
+  "copyright": "Copyright 2016 The Space Mono Project Authors (https://github.com/googlefonts/spacemono)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

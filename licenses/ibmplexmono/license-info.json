@@ -1,0 +1,17 @@
+{
+  "fontName": "IBM Plex Mono",
+  "englishName": "IBM Plex Mono",
+  "family": "wenfeng-ibmplexmono",
+  "normalized": "ibmplexmono",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/IBM/plex/blob/master/LICENSE.txt",
+  "source": "google-fonts-curated",
+  "foundry": "IBM",
+  "designer": "Mike Abbink, Bold Monday",
+  "copyright": "Copyright 2017 IBM Corp. All rights reserved.",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

@@ -1,0 +1,17 @@
+{
+  "fontName": "Lora",
+  "englishName": "Lora",
+  "family": "wenfeng-lora",
+  "normalized": "lora",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/cyrealtype/Lora-Cyrillic/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Cyreal",
+  "designer": "Olga Karpushina, Alexei Vanyashin",
+  "copyright": "Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name \"Lora\".",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

@@ -1,0 +1,17 @@
+{
+  "fontName": "Onest",
+  "englishName": "Onest",
+  "family": "wenfeng-onest",
+  "normalized": "onest",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/simpals/onest/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Simpals",
+  "designer": "Dmitri Voloshin, Vitali Kovalenco",
+  "copyright": "Copyright 2021 The Onest Project Authors (https://github.com/simpals/onest)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

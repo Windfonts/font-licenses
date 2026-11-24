@@ -1,0 +1,17 @@
+{
+  "fontName": "Libre Baskerville",
+  "englishName": "Libre Baskerville",
+  "family": "wenfeng-librebaskerville",
+  "normalized": "librebaskerville",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/impallari/Libre-Baskerville/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Impallari Type",
+  "designer": "Pablo Impallari, Rodrigo Fuenzalida",
+  "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

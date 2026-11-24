@@ -1,0 +1,17 @@
+{
+  "fontName": "EB Garamond",
+  "englishName": "EB Garamond",
+  "family": "wenfeng-ebgaramond",
+  "normalized": "ebgaramond",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/octaviopardo/EBGaramond12/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Georg Duffner",
+  "designer": "Georg Duffner, Octavio Pardo",
+  "copyright": "Copyright 2017 The EB Garamond Project Authors (https://github.com/octaviopardo/EBGaramond12)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

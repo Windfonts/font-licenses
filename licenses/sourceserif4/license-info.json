@@ -1,0 +1,17 @@
+{
+  "fontName": "Source Serif 4",
+  "englishName": "Source Serif 4",
+  "family": "wenfeng-sourceserif4",
+  "normalized": "sourceserif4",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/adobe-fonts/source-serif/blob/release/LICENSE.md",
+  "source": "google-fonts-curated",
+  "foundry": "Adobe",
+  "designer": "Frank Grießhammer",
+  "copyright": "© 2014 - 2021 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’.",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

@@ -1,0 +1,17 @@
+{
+  "fontName": "Cinzel",
+  "englishName": "Cinzel",
+  "family": "wenfeng-cinzel",
+  "normalized": "cinzel",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/NDISCOVER/Cinzel/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Ndiscover",
+  "designer": "Natanael Gama",
+  "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

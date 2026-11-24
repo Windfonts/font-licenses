@@ -1,0 +1,17 @@
+{
+  "fontName": "Work Sans",
+  "englishName": "Work Sans",
+  "family": "wenfeng-worksans",
+  "normalized": "worksans",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/weiweihuanghuang/Work-Sans/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Wei Huang",
+  "designer": "Wei Huang",
+  "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

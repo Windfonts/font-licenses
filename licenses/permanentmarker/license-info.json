@@ -1,0 +1,17 @@
+{
+  "fontName": "Permanent Marker",
+  "englishName": "Permanent Marker",
+  "family": "wenfeng-permanentmarker",
+  "normalized": "permanentmarker",
+  "license": "Apache License 2.0",
+  "spdx": "Apache-2.0",
+  "licenseUrl": "https://www.apache.org/licenses/LICENSE-2.0",
+  "source": "google-fonts-curated",
+  "foundry": "Font Diner",
+  "designer": "Font Diner",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

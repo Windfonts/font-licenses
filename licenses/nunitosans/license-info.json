@@ -1,0 +1,17 @@
+{
+  "fontName": "Nunito Sans",
+  "englishName": "Nunito Sans",
+  "family": "wenfeng-nunitosans",
+  "normalized": "nunitosans",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/googlefonts/NunitoSans/blob/main/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Vernon Adams",
+  "designer": "Vernon Adams, Jacques Le Bailly, Manvel Shmavonyan, Alexei Vanyashin",
+  "copyright": "Copyright 2016 The Nunito Sans Project Authors (https://github.com/Fonthausen/NunitoSans)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

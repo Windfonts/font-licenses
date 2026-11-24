@@ -1,0 +1,17 @@
+{
+  "fontName": "Maple Mono",
+  "englishName": "Maple Mono",
+  "family": "wenfeng-maplemono",
+  "normalized": "maplemono",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/subframe7536/maple-font/blob/variable/LICENSE.txt",
+  "source": "google-fonts-curated",
+  "foundry": "subframe7536",
+  "designer": "subframe7536",
+  "copyright": "Copyright 2022 The Maple Mono Project Authors (https://github.com/subframe7536/maple-font)",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}

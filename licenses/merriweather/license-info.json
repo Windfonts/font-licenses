@@ -1,0 +1,17 @@
+{
+  "fontName": "Merriweather",
+  "englishName": "Merriweather",
+  "family": "wenfeng-merriweather",
+  "normalized": "merriweather",
+  "license": "SIL Open Font License 1.1",
+  "spdx": "OFL-1.1",
+  "licenseUrl": "https://github.com/SorkinType/Merriweather/blob/master/OFL.txt",
+  "source": "google-fonts-curated",
+  "foundry": "Sorkin Type",
+  "designer": "Eben Sorkin",
+  "copyright": "Copyright 2024 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather4) with Reserved Font Name \"Merriweather\".",
+  "commercialUse": true,
+  "verified": true,
+  "verifiedAt": "2026-11-24",
+  "notes": "WindFonts curated Latin font (Google Fonts / official OSS release)"
+}
